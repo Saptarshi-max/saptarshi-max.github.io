@@ -83,8 +83,16 @@ menu:
  - title: Resources
    url: /Resources/
    
-plugins: 
- - jekyll-avatar
+ 
+
+plugins:
+  - jekyll-avatar
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
  
 # Collections
 # ----------------------------------------------------------------------------------------
