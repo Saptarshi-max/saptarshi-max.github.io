@@ -1,0 +1,112 @@
+lang:                  en
+title:                 Saptarshi Nag
+logo:                  /assets/img/circle-cropped.png
+description:           Embedded System Engineer
+copyright:             © 2021. All rights reserved.
+accent_image:          /assets/img/blog/Temple.jpg
+accent_color:          rgb(79,177,186)
+theme_color:           rgb(164, 14, 76)
+tagline:               >
+   Embedded System Engineer by profession,  occasional Urban sketcher and forever an Art lover  
+google_fonts:          Lora:400,400i
+font:                  Lora
+font_heading:          Lora
+font-code:             Fira Code, Menlo, Monaco, Consolas, monospa
+
+hydejack:
+ dark_mode: 
+  dynamic: true 
+  sunrise: 6 
+  sunset: 18
+  icon: true
+  always: false
+  
+  post_addons:         [about, newsletter, related, random, comments]
+  project_addons:      [about, newsletter, other, comments]
+  no_mark_external:    false
+  no_push_state:       false
+  no_drawer:           false
+  no_navbar:           false
+  no_search:           false
+  no_inline_css:       false
+  no_page_style:       false
+  no_break_layout:     true
+  no_toc:              false
+  no_third_column:     false
+  no_large_headings:   false
+  no_structured_data:  false
+  no_theme_color:      false
+  no_breadcrumbs:      false
+  use_lsi:             true
+  cookies_banner:      true
+  advertise:           true
+  hide_dates:          false
+  hide_last_modified:  false
+  dark_mode:
+    always:            false
+    dynamic:           true
+    sunrise:           6
+    sunset:            18
+    icon:              true
+  offline:
+    enabled:           false
+    cache_version:     1
+    precache_assets:
+      - /assets/img/swipe.svg
+optional_front_matter:
+  remove_originals:    true
+readme_index:
+  remove_originals:    true
+  with_frontmatter:    true
+relative_links:
+  collections:         true
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+compress_html:
+  comments:            ["<!-- ", " -->"]
+  clippings:           all
+  endings:             all
+  ignore:
+    envs:              [development]
+sass:
+  style:               compressed
+menu:
+ - title: Projects
+   url: /projects/
+ - title: Blog
+   url: /blog/
+ - title: Resume
+   url: /projects/
+ - title: Gallery
+   url: /gallery/
+ - title: Resources
+   url: /Resources/
+   
+plugins: 
+ - jekyll-avatar
+ 
+# Collections
+# ----------------------------------------------------------------------------------------
+
+collections:
+  featured_categories:
+    permalink:         /blog/:name/
+    output:            true
+
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+  projects:
+    permalink:         /projects/:path/
+    output:            true
+
+      
+        
+author: 
+  picture:  /assets/img/me3.jpg
+  social: 
+   twitter: Saptarshi108
+   github: saptarshi-max
+   youtube: https://www.youtube.com/channel/UCW4aG2WzciPKa8NvWMrAfzg
