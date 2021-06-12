@@ -73,7 +73,7 @@ sass:
   style:               compressed
 menu:
  - title: Projects
-   url: /projects/
+   url: /projects
  - title: Blog
    url: /blog/
  - title: Resume
