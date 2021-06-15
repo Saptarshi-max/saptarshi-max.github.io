@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wakabox
+title: Hello World
 
 accent_color: '#ccc'
 theme_color: '#ccc'
@@ -11,11 +11,5 @@ invert_sidebar: true
 
 Just to check ...
 this is some texts.
-
-
-
-
-
-<style>
-@import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
-</style>
+This one is blog
+Hello world post 
