@@ -75,7 +75,7 @@ menu:
  - title: Projects
    url: /projects
  - title: Blog
-   url: /blog/_post
+   url: /blog/:name/
  - title: Resume
    url: /projects/
  - title: Gallery
