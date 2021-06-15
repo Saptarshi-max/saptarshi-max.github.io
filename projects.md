@@ -16,7 +16,7 @@ Even though I have mainly left Discord (save certain essential work), I still ha
 ## Others
 
 * [BVE Trainsim 5 Survival Guide](./bve): Ditch the expensive Steam simulators and embrace this Japanese masterpiece!
-* [Compare Instagram following/followers](./instagram-compare): Weed out the fakes!
+* [Compare Instagram following/followers](./instagram-compare): Weed out the fakes! \cite{@banburyBenchmarkingTinyMLSystems2020}
 
 
 layout: projects
@@ -27,4 +27,6 @@ description: >
   This page is built using the `projects` layout* that you can use yourself to build a portfolio.
 no_groups: true
 
+
+## References
 
