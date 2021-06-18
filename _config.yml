@@ -87,12 +87,7 @@ menu:
 
 plugins:
   - jekyll-avatar
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-scholar
+  
  
 # Collections
 # ----------------------------------------------------------------------------------------

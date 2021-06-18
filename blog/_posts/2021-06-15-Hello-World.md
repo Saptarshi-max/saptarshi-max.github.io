@@ -13,3 +13,8 @@ Just to check ...
 this is some texts.
 This one is blog
 Hello world post 
+While this tutorial was written with Windows in mind, the only difference per platform is how you install Jekyll and file paths. {:.note}
+
+<button class="btn btn-sm btn-primary" onclick=" window.open('https://github.com/TsekNet/PowerShell-Profile','_blank')" value="View Source on Github">
+  <small class="icon-github"></small> View Source on Github
+</button>
