@@ -85,8 +85,8 @@ menu:
    
  
 
-plugins:
-  - jekyll-avatar
+# plugins:
+#  - jekyll-avatar
   
  
 # Collections
