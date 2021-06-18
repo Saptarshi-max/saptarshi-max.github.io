@@ -4,12 +4,6 @@ title: नमस्ते
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
-
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
 
 ## First Steps
 Start by reading the [Documentation]{:.heading.flip-title}.
@@ -45,3 +39,26 @@ containing example content:
 [install]: docs/install.md
 [upgrade]: docs/upgrade.md
 [config]: docs/config.md
+
+
+---
+layout: home
+title: 👋
+sitemap: true
+cover: true
+---
+
+Hi, I'm Dan. I'm a Windows SRE @Google.
+{:.lead}
+
+This website aims to document *interesting* tech problems I've
+solved, and share those solutions with the world in the hopes that it will make
+your life easier.
+
+TsekNet is a play on words, being a mix of my last name, "[**Tsek**hanskiy](/about#last-name)", and Microsoft's "Tech**Net**".
+
+## Latest Posts
+
+<!--posts-->
+
+See [Posts](/posts/) for more
