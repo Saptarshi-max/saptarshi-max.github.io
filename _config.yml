@@ -85,7 +85,7 @@ menu:
    
  
 
- plugins:
+plugins:
   - jekyll-avatar
   - jekyll-include-cache
   
