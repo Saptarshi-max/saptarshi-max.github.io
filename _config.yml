@@ -108,7 +108,11 @@ collections:
     output:            true
 
       
-        
+# Pagination configuration (used by the `blog` layout)
+paginate:              5
+paginate_path:         /blog/page-:num/
+
+
 author: 
   picture:  /assets/img/me3.jpg
   social: 
