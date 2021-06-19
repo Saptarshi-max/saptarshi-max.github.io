@@ -95,7 +95,7 @@ plugins:
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /:name/
     output:            true
 
   featured_tags:
@@ -103,7 +103,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/:path/
+    permalink:         /:path/
     output:            true
 
       
