@@ -109,7 +109,7 @@ tags:       [jekyll, update]
 Posts can also be assigned to a category based on their position within the folder structure, e.g.
 
 ~~~
-├── jekyll
+├── jekyll 
 │   └── update
 │       └── _posts
 │           └── 2017-04-07-welcome-to-jekyll.markdown
