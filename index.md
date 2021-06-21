@@ -40,7 +40,25 @@ containing example content:
 [upgrade]: docs/upgrade.md
 [config]: docs/config.md
 
-
+```
+project
+│   README.md
+│   file001.txt    
+│
+└───folder1└
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │
+   ...  
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
 ---
 layout: home
 title: 👋
@@ -48,7 +66,15 @@ sitemap: true
 cover: true
 ---
 
+```
+.
+├── data
+│   ├── dataset
+│   └── more data
+└── general data
+    └── just more bs
 
+```
 
 This website aims to document *interesting* tech problems I've
 solved, and share those solutions with the world in the hopes that it will make
@@ -59,4 +85,4 @@ your life easier.
 
 <!--posts-->
 
-See [Posts](/posts/) for more
+See [Posts](/posts/) for
