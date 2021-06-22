@@ -2,49 +2,75 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://placehold.it/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Saptarshi Nag"
+  label: "Embedded Software Developer with expertise in Firmware development"
+  picture: " /assets/img/circle-cropped.png"
+  email: "saptarshi.nag01@gmail.com"
+  phone: "+91-9871382236"
+  website: "https://saptarshi-max.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    
+    I am a graduate in Electronics and Telecommunication Engineering from [IETE, New Delhi](https://en.wikipedia.org/wiki/Institution_of_Electronics_and_Telecommunication_Engineers). With Masters in Embedded System design  
+    from [Kingston University, London](https://www.kingston.ac.uk/). I have experience in development of firmware for multiple 32-bit Microcontroller Series like the STM32, TI , Microchip
+    
+    a keen interest in Firmware development with experience in multiple Microcontrollers
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: "Sector 53, Noida"
+    postalCode: "201307"
+    city: "Noida"
+    countryCode: "IND"
+    region: "Uttar Pradesh"
   profiles:
+    - network: "Github"
+      username: "saptarshi-max"
+      url: "https://github.com/saptarshi-max"
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+      username: "Saptarshi108"
+      url: "https://twitter.com/Saptarshi108"
     - network: "LinkedIn"
-      username: "Richard Hendricks"
+      username: "Saptarshi Nag"
       url: ""
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
+  - company: "TalTech"
+    position: "Early Stage Researcher"
+   # website: "https://piedpiper.com"
     startDate: "2013-12-01"
     endDate: ""
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+    summary: > 
     highlights:
       - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
+  - company: "TalTech34"
+    position: "Early Stage Researcher"
+   # website: "https://piedpiper.com"
+    startDate: "2013-12-01"
+    endDate: ""
+    summary: >
+      
+    highlights:
+      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      - "Successfully won Techcrunch Disrupt"
+      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+  - company: "TalTech"
+    position: "Early Stage Researcher"
+   # website: "https://piedpiper.com"
+    startDate: "2013-12-01"
+    endDate: ""
+    summary: >
+      
+    highlights:
+      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      - "Successfully won Techcrunch Disrupt"
+      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+
+
+
+
+
+
+
+
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
