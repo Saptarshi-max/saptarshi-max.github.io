@@ -8,13 +8,16 @@ description:
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
 ---
+* this unordered seed list will be replaced by the toc {:toc .large-only}
+
+## data
 
 Just to check ...
 this is some texts.
 This one is blog
 
 
-
+## general data
 
 <style>
 @import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
