@@ -5,7 +5,7 @@ image:
   path: \assets\img\blog\Agrimechatronics\farm_unsplash.jpg
 description: >
   Agrimechatronics is a new branch of mechanatronics which explore the scope of electronics and mechanics involved in transforming the way we have been farming.
-sitemap: false
+sitemap: true
 
 accent_color: '#ccc'
 theme_color: '#ccc'
