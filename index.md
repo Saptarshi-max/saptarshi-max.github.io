@@ -1,89 +1,24 @@
 ---
-layout: page
-title: Hi there!
-sitemap: false
-description: My name is Saptarshi Nag, 
----
-
-## Welcome to my 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
-
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
-
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
-
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
-
-```
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1└
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │
-   ...  
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
-```
----
 layout: home
-title: 👋
+title: Hi there!
 sitemap: true
 cover: true
+
 ---
 
-```
-.
-├── data
-│   ├── dataset
-│   └── more data
-└── general data
-    └── just more bs
+## Welcome to my Website
 
-```
+My name is Saptarshi, I am a Hardware design Engineer with expertise in firmware development for Microcontrollers. 
 
 This website aims to document *interesting* tech problems I've
-solved, and share those solutions with the world in the hopes that it will make
-your life easier.
+encountered, solved or super curious to explore. I also use my website to keep track of my personal projects and share contents related to the tech industry. 
+
+My interests include Cyber physical system, Edge Computing, Industrial Internet of things (IIoT), Environment monitoring and Digital transformation
 
 
-## Latest Posts
+## Posts
 
 <!--posts-->
 
-See [Posts](/posts/) for
+See [Posts](/posts/) for more
+{:.read-more}
