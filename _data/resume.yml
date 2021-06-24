@@ -127,7 +127,7 @@ languages:
     fluency: "Native speaker"
   - language: "Hindi"
     fluency: "Native speaker"
-   - language: "Bengali"
+  - language: "Bengali"
     fluency: "Native speaker"
 interests:
   - name: "Digital illustration"
