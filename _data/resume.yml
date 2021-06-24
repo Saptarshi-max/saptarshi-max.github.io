@@ -99,9 +99,7 @@ education:
     startDate: "2011-06-01"
     endDate: "2014-01-01"
     
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+    
 
 publications:
   - name: "Underwater bioinspired sensing: New opportunities to improve environmental monitoring"
@@ -132,4 +130,3 @@ languages:
 interests:
   - name: "Digital illustration"
    
-s
