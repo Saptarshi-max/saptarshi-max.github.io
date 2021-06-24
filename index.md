@@ -1,10 +1,11 @@
 ---
 layout: page
-title: नमस्ते
+title: Hi there!
 sitemap: false
+description: My name is Saptarshi Nag, 
 ---
 
-
+## Welcome to my 
 ## First Steps
 Start by reading the [Documentation]{:.heading.flip-title}.
 Specifically, the chapters below should be relevant now:

@@ -31,17 +31,23 @@ basics:
       username: "Saptarshi Nag"
       url: ""
 work:
-  - company: "TalTech"
+  - company: "TalTech, Estonia"
     position: "Early Stage Researcher"
-   # website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
+    website: "https://piedpiper.com"
+    startDate: "2018-07-01"
+    endDate: "2020-08-01"
+    place: Estonia, Tallinn
     summary: > 
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-  - company: "ARM Embedded technologies (Consultant)"
+      - "Developed Embedded systems for research application and explored the
+existing state of the art of monitoring systems for river and hydrology
+research"
+      - "Developed software stack for data processing and uncertainty detection
+in the data acquisition system, for river monitoring application"
+      - "Served as a Teaching Assistant, taught undergraduate students, Robotics
+and Robotic operating system (ROS) Programming, developed course
+materials including presentation and scripts for class demonstration"
+  - company: "ARM Embedded technologies (Consultant), Noida"
     position: "Layout Engineer"
    # website: "https://piedpiper.com"
     startDate: "2013-12-01"
@@ -52,7 +58,7 @@ work:
       - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
-  - company: "TalTech"
+  - company: "Glitz India Pvt Limited"
     position: "Early Stage Researcher"
    # website: "https://piedpiper.com"
     startDate: "2013-12-01"

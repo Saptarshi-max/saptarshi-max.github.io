@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Automation Industry
+title: Agrimechatronics- The future of Smart farming
+image: 
+  path: \assets\img\blog\Agrimechatronics\farm_unsplash.jpg
+description: >
+  Version 9 is the most complete version of Hydejack yet.
+  Modernized design, big headlines, and big new features.
+sitemap: false
 
 accent_color: '#ccc'
 theme_color: '#ccc'
