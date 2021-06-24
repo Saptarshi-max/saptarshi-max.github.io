@@ -61,8 +61,8 @@ work:
       
     highlights:
       - "Designed Circuit layout for the various memory architecture "
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - "Involved in testing and checks for quality assurance and final verification of the layout designs"
+      - "Developed deep understanding of ARM architecture and memory architecture"
   - company: "Glitz India Pvt Limited"
     position: "Early Stage Researcher"
    # website: "https://piedpiper.com"
@@ -71,12 +71,11 @@ work:
     summary: >
       
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-
-
-
+      - Designed Printed Circuit Boards (PCB) of voltage regulator and DC-DC converter for lighting appliances.
+      - Designed, Developed and verified various hardware for production stages, documenting the workflow to create Bill of Materials (BOM).
+      - Build various test cases on the prototyping modules of the TI’s MSP430 series to simulate various test environment.
+      - Review the PCBs for soldering defects like dry soldering, shorting
+        of connections etc
 
 
 
