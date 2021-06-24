@@ -27,7 +27,7 @@ These codes has been implemented and tested on Stm32f429 and Stm32F303 Discovery
 
 * [GPIO Programming](./advertising): Ways to promote your Discord server.
 * [SPI Programming](./discord-server-guide): Ways to grow your Discord server.
-* [I2C Programming](licenses/PRO.md): Internal corruption and faults of Discord. 
+* [I2C Programming](/licenses/PRO.md): Internal corruption and faults of Discord. 
   
   
 ## References
