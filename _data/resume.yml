@@ -84,16 +84,7 @@ work:
 
 education:
   - institution: "Kingston University"
-    area: "Embedded Systems"
-    studyType: "Masters in Science (MSc)"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-  - institution: "CDAC"
-    area: "Embedded Systems"
+    area: "Embedded Systems with Management studies"
     studyType: "Masters in Science (MSc)"
     startDate: "2011-06-01"
     endDate: "2014-01-01"
@@ -102,19 +93,29 @@ education:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
 
+  - institution: "CDAC"
+    area: "Embedded Systems with integrated VLSI"
+    studyType: "Post graduation Diploma"
+    startDate: "2011-06-01"
+    endDate: "2014-01-01"
+    
+    courses:
+      - "DB1101 - Basic SQL"
+      - "CS2011 - Java Introduction"
+
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
+  - name: "Underwater bioinspired sensing: New opportunities to improve environmental monitoring"
+    publisher: "Institute of Electrical and Electronics Engineers Inc."
+    releaseDate: "2020-04-01"
     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Web Development"
+  - name: "Firmware Development"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
+      - "Bare-metal"
+      - "FreeRTOS"
+      
   - name: "Compression"
     level: "Master"
     keywords:
@@ -124,13 +125,11 @@ skills:
 languages:
   - language: "English"
     fluency: "Native speaker"
+  - language: "Hindi"
+    fluency: "Native speaker"
+   - language: "Bengali"
+    fluency: "Native speaker"
 interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+  - name: "Digital illustration"
+   
+s
