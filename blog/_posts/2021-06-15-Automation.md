@@ -10,7 +10,7 @@ width: 1760px
 
 accent_color: '#ccc'
 theme_color: '#ccc'
-
+tags: [concurrent-programming]
 invert_sidebar: true
 ---
 # Agrimechatronics- The future of Smart farming

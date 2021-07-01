@@ -3,10 +3,10 @@
 layout: grid
 
 # The title of the tag's page.
-title: Example
+title: IoT
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: IoT
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
@@ -20,3 +20,5 @@ no_groups: true
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
+
+![picture 1](../images/d78f5f70573f832a714cd46292adc0832fc00019cc258c92946613a2d314bd80.png)  
