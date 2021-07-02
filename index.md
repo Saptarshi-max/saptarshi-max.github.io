@@ -1,13 +1,18 @@
 ---
 layout: home
-title: Hi there!
+title: About me
 sitemap: true
 cover: true
 hide_description: true
 ---
 
 ## Welcome to my Website
-<img src="assets/img/blog/Agrimechatronics/farm_unsplash.jpg" alt="Name tags of attended MUN conferences" align="right" width="570" height ="400" />
+<html>
+<img src="/images/about_frame.png" alt="Name tags of attended MUN conferences" align="right" width="670" height ="800" />
+
+
+
+</html>
 
 My name is Saptarshi, I am a Hardware design Engineer with expertise in firmware development for Microcontrollers. 
 
