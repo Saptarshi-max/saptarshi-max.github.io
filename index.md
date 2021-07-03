@@ -59,10 +59,9 @@ My interests include Cyber physical system, Edge Computing, Industrial Internet 
 </head>
 <body>
 <img src="/images/Image_lake.jpeg" alt="just my pic" align="right"  width="600" height ="1000" />
-<i class="fa fa-microchip fa-2x fa-pull-left fa-border" style="color: yellow
+<i class="fa fa-microchip fa-2x fa-pull-left fa-border" style="color: #4FB1BA
 ;"></i>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+I write softwares for Microcontrollers, primarily to m
 </body>
 </html>
 ---
@@ -75,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </head>
 <body>
 
-<i class="fa fa-linux fa-2x fa-pull-left fa-border" style="color: yellow
+<i class="fa fa-linux fa-2x fa-pull-left fa-border" style="color: #4FB1BA
 ;"></i>
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur #3C7075.
 
