@@ -1,6 +1,6 @@
 ---
-title: The Guides I offer!
-description: Some freebies to take away from this website!
+title: My Projects
+description: A collection of some of my Personal Projects 
 ---
 
 The Projects page ...

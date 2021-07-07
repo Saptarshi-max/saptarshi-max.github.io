@@ -46,9 +46,9 @@ My interests include Cyber physical system, Edge Computing, Industrial Internet 
 <button type="button" class="btn btn-light">Light</button>
 <button type="button" class="btn btn-dark">Dark</button>
 
-<button type="button" class="btn btn-link">Link</button>
+
 ---
-## What I do ?
+# What I do ?
 
 
 <html>
@@ -80,6 +80,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 </body>
 </html>
+
+## My Projects 
+
 
 ## Posts
 
