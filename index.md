@@ -36,15 +36,8 @@ My interests include Cyber physical system, Edge Computing, Industrial Internet 
   <small class="icon-linkedin"></small> View Source on Github
 </button>
 
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-secondary" onclick=" window.open('https://github.com/TsekNet/PowerShell-Profile','_blank')" value="View Source on Github">
-  <small class="icon-linkedin"></small> View Source on Github> Secondary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-warning">Warning</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-light">Light</button>
-<button type="button" class="btn btn-dark">Dark</button>
+
+
 
 
 ---
@@ -61,7 +54,12 @@ My interests include Cyber physical system, Edge Computing, Industrial Internet 
 <img src="/images/Image_lake.jpeg" alt="just my pic" align="right"  width="600" height ="1000" />
 <i class="fa fa-microchip fa-2x fa-pull-left fa-border" style="color: #4FB1BA
 ;"></i>
-I write softwares for Microcontrollers, primarily to m
+I am a C++ Programmer, I write scripts for both Desktop and Embedded Platforms. Few of the Embedded Platforms I have worked with are :
+<ul>
+<li> STM32 series </li> 
+<li> TMC4C123 </li> 
+<li> MSP432 series </li>
+</ul>
 </body>
 </html>
 ---
@@ -76,16 +74,22 @@ I write softwares for Microcontrollers, primarily to m
 
 <i class="fa fa-linux fa-2x fa-pull-left fa-border" style="color: #4FB1BA
 ;"></i>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur #3C7075.
+ Linux Kernel Programming : Most of the systems I work on (Desktop or Embedded) are equipped with Linux Operating system. To program the system and make it obey to all my commands. I write scripts for the Linux Kernel or to develop custom Linux distribution using Yocto Project. 
+ 
 
 </body>
 </html>
 
 ## My Projects 
+This is a collection of all my personal projects I have worked on or presently working on ...
+<!--projects-->
+See [Projects](/projects/)
+{:.read-more}
+
 
 
 ## Posts
-
+A collection of all my random blog posts 
 <!--posts-->
 
 See [Posts](/posts/) for more

@@ -43,6 +43,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-avatar"
   gem "jekyll-feed"
+  gem "jekyll-avatar"
 
 
   # Non-Github Pages plugins:
