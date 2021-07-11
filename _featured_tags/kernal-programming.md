@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: Kernal Programming
+slug: kernal-programming
 category:
 sidebar: true
 description: >

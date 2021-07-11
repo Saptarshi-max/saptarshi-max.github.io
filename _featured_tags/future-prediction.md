@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: Future Predictions
+slug: future-prediction
 category:
 sidebar: true
 description: >

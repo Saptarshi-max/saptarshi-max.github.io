@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: RTOS
+slug: rtos
 category:
 sidebar: true
 description: >

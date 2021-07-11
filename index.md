@@ -20,7 +20,7 @@ hide_description: true
 
 <p>Hi, My name is Saptarshi, I am a Hardware design Engineer with expertise in firmware development for Microcontrollers. 
 
-This website aims to document *interesting* tech problems I've
+This website aims to document interesting tech problems I've
 encountered, solved or super curious to explore. I also use my website to keep track of my personal projects and share contents related to the tech industry. </p>
 <p>
 

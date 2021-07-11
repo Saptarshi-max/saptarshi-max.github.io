@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: C++
+slug: c++
 category:
 sidebar: true
 description: >

@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: IIoT
+slug: iiot
 category:
 sidebar: true
 description: >

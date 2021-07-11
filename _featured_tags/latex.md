@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: Latex
+slug: latex
 category:
 sidebar: true
 description: >

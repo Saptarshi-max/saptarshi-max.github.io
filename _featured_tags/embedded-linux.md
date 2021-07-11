@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: Embedded Linux
+slug: embedded-linux
 category:
 sidebar: true
 description: >

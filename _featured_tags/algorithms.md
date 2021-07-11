@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: TinyML
-slug: inyML
+title: Algorithms
+slug: algorithms
 category:
 sidebar: true
 description: >
