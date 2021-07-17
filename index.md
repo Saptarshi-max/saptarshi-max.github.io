@@ -26,19 +26,17 @@ encountered, solved or super curious to explore. I also use my website to keep t
 
 My interests include Cyber physical system, Edge Computing, Industrial Internet of things (IIoT), Environment monitoring and Digital transformation</p>
 
-<p> Here are the links to my other accounts on the internet ... </p>
+<p> Here are the links to my other accounts across the internet ... </p>
 
-<button class="btn btn-sm btn-primary" onclick=" window.open('https://github.com/TsekNet/PowerShell-Profile','_blank')" value="View Source on Github">
-  <small class="icon-github"></small> View Source on Github
-</button>
-
-<button class="btn btn-sm btn-primary" onclick=" window.open('https://github.com/TsekNet/PowerShell-Profile','_blank')" value="View Source on Github">
-  <small class="icon-linkedin"></small> View Source on Github
-</button>
-
-
-
-
+> ![](https://icongr.am/simple/github.svg?colored=true) [Saptarshi-max](https://duckduckgo.com)
+> &nbsp;  &nbsp; &nbsp; &nbsp;![](https://icongr.am/simple/linkedin.svg?colored=true) [Saptarshi01](https://duckduckgo.com)
+> &nbsp;  &nbsp; &nbsp; &nbsp;![](https://icongr.am/simple/twitter.svg?colored=true) [Saptarshi108](https://duckduckgo.com)
+> &nbsp;  &nbsp; &nbsp; &nbsp;![](https://icongr.am/simple/devto.svg?colored=true) [Duck Duck Go](https://duckduckgo.com)
+> <br>
+> <br>
+> ![](https://icongr.am/simple/youtube.svg?colored=true) GitHub
+> &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;![](https://icongr.am/simple/behance.svg?colored=true) GitHub
+> &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;![](https://icongr.am/simple/instagram.svg?colored=true) [Saptarshi108](https://duckduckgo.com)
 
 ---
 # What I do ?
@@ -54,7 +52,7 @@ My interests include Cyber physical system, Edge Computing, Industrial Internet 
 <img src="/images/Image_lake.jpeg" alt="just my pic" align="right"  width="600" height ="1000" />
 <i class="fa fa-microchip fa-2x fa-pull-left fa-border" style="color: #4FB1BA
 ;"></i>
-I am a C++ Programmer, I write scripts for both Desktop and Embedded Platforms. Few of the Embedded Platforms I have worked with are :
+I am an Embedded Software Developer, I write scripts for both Desktop and Embedded Platforms. A large portion of my work is centric around C and C++. However there are other softwares I have to use often  .... Few of the Embedded Platforms I have worked with are :
 <ul>
 <li> STM32 series </li> 
 <li> TMC4C123 </li> 
@@ -74,7 +72,7 @@ I am a C++ Programmer, I write scripts for both Desktop and Embedded Platforms. 
 
 <i class="fa fa-linux fa-2x fa-pull-left fa-border" style="color: #4FB1BA
 ;"></i>
- Linux Kernel Programming : Most of the systems I work on (Desktop or Embedded) are equipped with Linux Operating system. To program the system and make it obey to all my commands. I write scripts for the Linux Kernel or to develop custom Linux distribution using Yocto Project. 
+ Linux Kernel Programming : Most of the systems I work on (Desktop or Embedded) are equipped with Linux Operating system. To program the system and make it obey to all my commands. I write scripts for the Linux Kernel or develop custom Linux distribution using Yocto Project. 
  
 
 </body>
