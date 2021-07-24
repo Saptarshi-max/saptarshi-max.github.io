@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agrimechatronics- The future of Smart farming
+title: Rise of IIoT in Agriculture Industry
 image: 
   path: \assets\img\blog\Agrimechatronics\farm_unsplash.jpg
 description: >
@@ -13,24 +13,31 @@ theme_color: '#ccc'
 tags: [iiot, future-prediction]
 invert_sidebar: true
 ---
-# Agrimechatronics- The future of Smart farming
+#  Rise of IIoT in Agriculture Industry
 
 - Table of Contents
 {:toc .large-only}
 
-## Introduction 
-Just to check ...
-this is some texts.
-This one is blog
-Hello world post 
-While this tutorial was written with Windows in mind, the only difference per platform is how you install Jekyll and file paths. {:.note}
-## History
+## History of Informatics in Agriculture sector
 
-Elements of file handling in the project.
 
-## What the future holds ?
+## IoT vs IIoT – Which one is more promising but least expensive ?
 
-## Geographical and economical Challenges 
-<button class="btn btn-sm btn-primary" onclick=" window.open('https://github.com/TsekNet/PowerShell-Profile','_blank')" value="View Source on Github">
-  <small class="icon-github"></small> View Source on Github
-</button>
+
+## Innovations 
+
+
+## Fight against Global Warming and Malnutrition
+
+
+
+
+## Investment and Research 
+
+
+
+## Economics and Politics
+
+
+
+## Future Roadmap 

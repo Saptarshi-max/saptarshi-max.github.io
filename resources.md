@@ -7,11 +7,14 @@ Feel free to view, share and build upon the existing work. Please respect [the l
 
 ## Tutorials and Projects on STM32 microcontroller Series
 
-These codes has been implemented and tested on Stm32f429 and Stm32F303 Discovery boards.
+These codes has been implemented and tested on Stm32f429 or Stm32F303 Discovery boards.
 
 * [GPIO Programming](./advertising): Ways to promote your Discord server.
 * [SPI Programming](./discord-server-guide): Ways to grow your Discord server.
 * [I2C Programming](./discord-issues): Internal corruption and faults of Discord.
+* [Graphic LCD Programming](./discord-issues): Internal corruption and faults of Discord.
+* [USB Firmware Development](./discord-issues): Internal corruption and faults of Discord.
+* [Bluetooth driver Programming](./discord-issues): Internal corruption and faults of Discord.
 
 ## Tutorials and Projects on ESP32 Series
 
@@ -23,7 +26,6 @@ These codes has been implemented and tested on Stm32f429 and Stm32F303 Discovery
 
 
 ## Tutorials and Projects on TMC4C123 microcontroller Series
-~
 
 * [GPIO Programming](./advertising): Ways to promote your Discord server.
 * [SPI Programming](./discord-server-guide): Ways to grow your Discord server.

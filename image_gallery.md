@@ -2,11 +2,11 @@
 title: My Artworks
 
 description: 
-  During my spare time, I love to try my hands on Digital illustrations and Concept Sketching. I also love traditional watercolor painting.
+  During my spare time, I love to try my hands on Digital illustrations and Concept Sketching. The software I use for designing are Affinity Designer, Affninty Photo, Sketchbook Pro, Blender, FreeCAD
 
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
