@@ -9,10 +9,10 @@ tags: [vscode, Writing]
 invert_sidebar: true
 ---
 
-# 8 cool VScode extensions to help you write your technical documentation
-Weather you are a junior system developer or a technical director, You need to write a documentation to describe your project for your potential clients or new team member to explore the scope of scalability. Technical Documentation is not just about writing down a manual for your work, but a well-structured   roadmap for the operator to explore key features your product has to offer, use it for their own benefit and suggest ideas back to the developer for possible improvements of the system and also of course loves to explore the tool you have to offer.
+#  Tips on writing a great technical documentation, here is how VSCode can help you enhance your workflow
+Weather you are a junior system developer or a technical director, You need to write a documentation to describe your project for your potential clients or new team member to explore the scope of scalability. Technical Documentation is not just about writing down a manual for your work, but a well-structured roadmap for the operator to explore key features your product has to offer, use it for their own benefit and suggest ideas back to the developer for possible improvements of the system and also of course loves to explore the tool you have to offer.
 
-Writing a technical documentation can be a bit overwhelming, As it involves a lot of testing, consistency and even illustrations to make the contents easier to understand and work upon for operators of various experience levels. 
+Writing a technical documentation can be a bit overwhelming, As it involves a lot of testing, consistency and even illustrations to make the contents easier to understand for operators of various experience levels. 
 
 ## 6 Key Factors to make your Technical Documentation to stand out 
 
@@ -55,31 +55,38 @@ The VS Code Extensions for Technical Documentation
 ## 8 Extensions to help you enhance your Technical documentation writing
 
 ### 1. Markdown
- 
+ Markdown lets developers easily write documentation in plain text, which is converted to structurally valid XHTML or HTML files easily presentable on the Web.
+
 	Markdown enhanced preview 
 	Marp
 ### 2. Latex Workshop
+![picture 1](../../images/c4422854583abfc1338b7cd13d2edf680a579537575fb88d946237b7d4e0d732.png)  
 
 ### 3. Latex + Markdown
-
+Latex and Markdown can be intwegrated 
 ### 4. PlantUML
 ![picture 2](/images/0fd72605fe0f31153bbe4b2201cb5563e78025e15bd82d0049f87f499f5da91b.png)  
 
 
-### 5. LucidChart
+### 5. Draw.io
+![picture 1](/images/4c28623efbe0d0bcdcd53c417c60315e3eb2ee795c65ac3d03ea0605b6318f42.png)  
 
 
 
 ### 6. Doxygen
+![picture 2](/images/c585f2c0223d39189741fca86c808266952c54af177a5fc24bf30ebca02d7c94.png)  
+
 ### 7. Git 
 
+Hello. [^1] 
 
-### 8. ASCII Tree
+### 8. ASCII Tree 
  
 ![picture 1](../../images/6f03320522565f8bb3c50ed92e8dcab05e61c1cb218e400f7899e634a3fbaf7f.png)  
 
-
+Some [^bg] Some More [^rt]
 ## References
-[^1]: “5 Steps to Create Technical Documentation That’s (Actually) Helpful,” Planio. https://plan.io/blog/technical-documentation/ (accessed Jul. 24, 2021).
 
-[^2]:
+[^1]: “5 Steps to Create Technical Documentation That’s (Actually) Helpful,” Planio. https://plan.io/blog/technical-documentation/ (accessed Jul. 24, 2021).
+[^bg]: “Markdown or LaTeX?
+[^rt]: More data 

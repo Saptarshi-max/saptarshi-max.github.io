@@ -32,5 +32,5 @@ These codes has been implemented and tested on Stm32f429 or Stm32F303 Discovery 
 * [I2C Programming](/licenses/PRO.md): Internal corruption and faults of Discord. 
   
   
-## References
+
 
