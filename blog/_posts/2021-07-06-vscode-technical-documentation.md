@@ -9,7 +9,7 @@ tags: [vscode, Writing]
 invert_sidebar: true
 ---
 
-#  Tips on writing a great technical documentation, here is how VSCode can help you enhance your workflow
+#  Tips on writing a great technical documentation, and how VSCode can help you enhance your workflow
 Weather you are a junior system developer or a technical director, You need to write a documentation to describe your project for your potential clients or new team member to explore the scope of scalability. Technical Documentation is not just about writing down a manual for your work, but a well-structured roadmap for the operator to explore key features your product has to offer, use it for their own benefit and suggest ideas back to the developer for possible improvements of the system and also of course loves to explore the tool you have to offer.
 
 Writing a technical documentation can be a bit overwhelming, As it involves a lot of testing, consistency and even illustrations to make the contents easier to understand for operators of various experience levels. 
@@ -54,7 +54,7 @@ The VS Code Extensions for Technical Documentation
 
 ## 8 Extensions to help you enhance your Technical documentation writing
 
-### 1. Markdown
+### 1. Grammer Correction 
  Markdown lets developers easily write documentation in plain text, which is converted to structurally valid XHTML or HTML files easily presentable on the Web.
 
 	Markdown enhanced preview 
@@ -67,7 +67,16 @@ Latex and Markdown can be intwegrated
 ### 4. PlantUML
 ![picture 2](/images/0fd72605fe0f31153bbe4b2201cb5563e78025e15bd82d0049f87f499f5da91b.png)  
 
+```cpp
+// file: hello.cpp
 
+# include <iostream>
+# include <conio>
+{
+void main()
+std::cout <<"Hello world"; 
+}
+```
 ### 5. Draw.io
 ![picture 1](/images/4c28623efbe0d0bcdcd53c417c60315e3eb2ee795c65ac3d03ea0605b6318f42.png)  
 
