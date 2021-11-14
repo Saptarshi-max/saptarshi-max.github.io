@@ -87,7 +87,7 @@ std::cout <<"Hello world";
 
 ### 7. Git 
 
-Hello. [^1] 
+Anybody involved from a Programming background are aware of the wide usage of Git for version control and software management. Git is undoubtedly an amazing software tool to help you keep track of your software scripts changes and authorship of the specific changes. Best part you can use Git to keep a well track of all your digital contents inclusing your Technical Document [^1] 
 
 ### 8. ASCII Tree 
  
