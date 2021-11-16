@@ -46,6 +46,12 @@ description:
   <div class="column">
     <img src="/assets/img/gallery/plane.png" alt="Mountains" style="width:100%">
   </div>
+  <div class="column">
+    <img src="/assets/img/gallery/plane.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/img/gallery/plane.png" alt="Mountains" style="width:100%">
+  </div>
 </div>
 
 </body>
