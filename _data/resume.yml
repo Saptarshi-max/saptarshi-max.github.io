@@ -6,7 +6,6 @@ basics:
   label: "Embedded Software Developer with expertise in Firmware development"
   picture: " /assets/img/circle-cropped.png"
   email: "saptarshi.nag01@gmail.com"
-  phone: "+91-9871382236"
   website: "https://saptarshi-max.github.io"
   summary: >
     
@@ -16,7 +15,7 @@ basics:
       Collaborative work style, demonstrated strong ability to work independently or as a team player in a multicultural, interdisciplinary environment.
 
   location:
-    address: "Sector 53, Noida"
+    address: "Noida"
     postalCode: "201307"
     city: "Noida"
     countryCode: "IND"
@@ -32,6 +31,14 @@ basics:
       username: "Saptarshi Nag"
       url: ""
 work:
+  - company: Micron 
+    position: "Embedded System Engineer"
+    website: "dsd"
+    startDate: "2021-07-01"
+    place: Hyderabad, India
+    summary: >
+    highlights: 
+        - "Pre-Silicon verification" 
   - company: "TalTech, Estonia"
     position: "Early Stage Researcher"
     website: "https://piedpiper.com"
