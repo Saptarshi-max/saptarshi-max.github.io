@@ -23,5 +23,9 @@
     },
     "peacock.color": "#215732",
     "git.ignoreLimitWarning": true,
-    "stm32-for-vscode.makePath": false
+    "stm32-for-vscode.makePath": false,
+    "editor.fontSize": 20,
+    "marquee.widgets.npm-stats.packageNames": [
+        "hydejack"
+    ]
 }

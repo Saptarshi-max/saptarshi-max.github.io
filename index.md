@@ -85,6 +85,12 @@ See [Projects](/projects/)
 {:.read-more}
 
 
+## My Gallery
+
+<!--gallery-->
+See [Projects](/gallery/)
+{:.read-more}
+
 
 ## Posts
 A collection of all my random blog posts 

@@ -15,11 +15,11 @@ font-code:             Fira Code, Menlo, Monaco, Consolas, monospa
 
 hydejack:
  dark_mode: 
-  dynamic: true 
+  dynamic: true
   sunrise: 6 
   sunset: 18
   icon: true
-  always: false
+  always: true
   
   post_addons:         [about, newsletter, related, random, comments]
   project_addons:      [about, newsletter, other, comments]
@@ -75,14 +75,16 @@ menu:
  - title: Projects
    url: /projects/
  - title: Blog
-   url: /blog/
+   url: /blog/  img
  - title: Resume
    url: /resume
  - title: Gallery
-   url: /image_gallery
- - title: Resources
+   url: /gallery
+ - title: Study Notes
    url: /resources
-   
+ - title: Linux Resources
+   url: /resources
+
  
 
 plugins:
