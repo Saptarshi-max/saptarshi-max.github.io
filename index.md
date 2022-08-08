@@ -1,7 +1,8 @@
 ---
 layout: home
 title: About me
-sitemap: true
+sitemap: true 
+sidebar: false
 cover: true
 hide_description: true
 ---

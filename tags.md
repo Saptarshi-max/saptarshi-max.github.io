@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: tags
 title: Tags
 permalink: /tags/
 sidebar: true

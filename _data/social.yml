@@ -31,6 +31,10 @@ spotify:
   name: Spotify
   icon: icon-spotify
   prepend: "https://play.spotify.com/"
+artstation:
+  name: ArtStation
+  icon: icon-artstation
+  prepend: "https://www.artstation.com/"
 telegram:
   name: Telegram
   icon: icon-telegram
