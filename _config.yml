@@ -75,7 +75,7 @@ menu:
  - title: Projects
    url: /projects/
  - title: Blog
-   url: /blog/  img
+   url: /posts/ 
  - title: Resume
    url: /resume
  - title: Gallery
@@ -120,6 +120,9 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  gallery:
+    permalink:         /gallery/:path/
+    output:            true
       
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
