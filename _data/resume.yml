@@ -4,15 +4,15 @@
 basics:
   name: "Saptarshi Nag"
   label: "Embedded Software Developer with expertise in Firmware development"
-  picture: " /assets/img/circle-cropped.png"
+  picture: "/assets/img/orange.png"
   email: "saptarshi.nag01@gmail.com"
   website: "https://saptarshi-max.github.io"
   summary: >
-    
-      I am an Embedded software developer with a strong expertise in agile software development for embedded computing devices .I posses
-      proficient programming skills in C/C++ for multi-core programming and network programming. With a strong algorithmic analysis background,
-      for performance analysis and tuning. I have Keen Interest in learning new technologies ad innovations in my area of the expertise. While also posses
-      Collaborative work style, demonstrated strong ability to work independently or as a team player in a multicultural, interdisciplinary environment.
+      Embedded Software Developer with more than six years of electronics industry experience and 
+      an advanced knowledge of Embedded engineering discipline, processes and Agile tools for developing innovative solutions 
+      to ensure quality products, integrated system solutions or services to 
+      meet the technical specifications  and business demands of the ever evolving challenges and ethics of the 
+      Embedded system's industry.
 
   location:
     address: "Noida"
@@ -31,6 +31,15 @@ basics:
       username: "Saptarshi Nag"
       url: ""
 work:
+  - company: 
+    position: 
+    website: "dsd"
+    startDate:
+    place: 
+    summary: >
+    highlights: 
+        - "Pre-Silicon verification" 
+        - "Pre-Silicon verification"
   - company: Micron 
     position: "Embedded System Engineer"
     website: "dsd"
@@ -65,7 +74,7 @@ work:
    # website: "https://piedpiper.com"
     startDate: "2013-12-01"
     endDate: ""
-    summary: >
+    summary: > 
       
     highlights:
       - "Designed Circuit layout for the various memory architecture "
@@ -86,7 +95,17 @@ work:
         of connections etc
 
 
+core:
+  - company: df
+    position: xxx
+   # website: "https://piedpiper.com"
+    startDate: 
+    endDate: ""
+    summary: >
 
+      
+    
+       
 
 
 

@@ -5,6 +5,11 @@ image:
   path: \assets\img\blog\Agrimechatronics\farm_unsplash.jpg
 description: >
   Agrimechatronics is a new branch of mechanatronics which explore the scope of electronics and mechanics involved in transforming the way we have been farming.
+links:
+  - title: Journal
+    url: https://www.biorxiv.org/content/10.1101/2020.04.28.063461v1.abstract
+  - title: Data/Code
+    url: https://github.com/Yale-CANDLab/ABCD_Env_Subtyping
 sitemap: false
 
 accent_color: '#ccc'

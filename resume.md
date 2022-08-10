@@ -7,6 +7,7 @@ description: >
 hide_description: true
 left_column:
   - work
+  - core
   - education
   - publications
 right_column:
