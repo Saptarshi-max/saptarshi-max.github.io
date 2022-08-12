@@ -1,5 +1,5 @@
 ---
-layout: welcome
+layout: home
 cover: true
 image: /assets/img/blog/hydejack-9.jpg
 description: >
@@ -9,7 +9,9 @@ hide_description: true
 buttons: |
   [Download](#download){:.btn.btn-primary}
   [Documentation](/docs){:.btn.btn-default}
-
+selected_projects:
+  - _gallery/2022-07-27-plane.md
+projects_page: gallery.md
 no_third_column: true
 permalink: /
 ---
