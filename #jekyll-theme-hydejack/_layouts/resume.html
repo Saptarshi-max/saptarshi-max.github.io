@@ -36,7 +36,7 @@ layout: base
     {% assign l_col = page.left_column %}
     {% assign r_col = page.right_column %}
     {% unless l_col %}{% assign l_col = 'work,volunteer,education,awards,publications,references' | split:',' %}{% endunless %}
-    {% unless r_col %}{% assign r_col = 'languages,skills,interests' | split:',' %}{% endunless %}
+    {% unless r_col %}{% assign r_col = 'languages,skills,rinterests,interests' | split:',' %}{% endunless %}
 
     <div class="column column-3-5">
       {% for sec in l_col %}
@@ -59,6 +59,8 @@ layout: base
           {% include pro/resume/skills.html %}
         {% when 'interests' %}
           {% include pro/resume/interests.html %}
+        {% when 'rinterests' %}
+          {% include pro/resume/rinterests.html %}
         {% else %}
         {% endcase %}
       {% endfor %}
@@ -84,6 +86,8 @@ layout: base
           {% include pro/resume/skills.html %}
         {% when 'interests' %}
           {% include pro/resume/interests.html %}
+        {% when 'rinterests' %}
+          {% include pro/resume/rinterests.html %}
         {% else %}
         {% endcase %}
       {% endfor %}

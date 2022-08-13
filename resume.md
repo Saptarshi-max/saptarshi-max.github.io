@@ -13,6 +13,7 @@ left_column:
 right_column:
   - skills
   - languages
+  - rinterests
   - interests
 no_language_icons: false
 no_skill_icons: false

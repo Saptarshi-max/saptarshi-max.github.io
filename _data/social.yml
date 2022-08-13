@@ -33,8 +33,28 @@ spotify:
   prepend: "https://play.spotify.com/"
 artstation:
   name: ArtStation
-  icon: icon-artstation
+  icon: icon-artstation-brands
   prepend: "https://www.artstation.com/"
+slideshare:
+  name: Slideshare
+  icon: icon-slideshare-brands
+  prepend: "https://www.slideshare.com/"
+kaggle:
+  name: Kaggle
+  icon: icon-kaggle-brands
+  prepend: "https://www.slideshare.com/"
+hackster:
+  name: Hackster
+  icon: icon-Hackster-Mark_BW
+  prepend: "https://www.slideshare.com/"
+researchgate:
+  name: Researchgate
+  icon: icon-researchgate-brands
+  prepend: "https://www.researchgate.com/"
+dev:
+  name: Dev
+  icon: icon-dev-brands
+  prepend: "https://www.dev.to/"
 telegram:
   name: Telegram
   icon: icon-telegram
