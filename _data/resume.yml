@@ -182,6 +182,19 @@ languages:
     fluency: "Native speaker"
 rinterests:
   - name: "Embedded Systems"
+  - name: "Machine learning on Edge devices"
+  - name: "Real-Time Computer Systems"
+  - name: "Safety-Critical or Fault Tolerance Systems "
+  - name: "Industrial Cyber-Physical Systems"
+  - name: "Human Machine Interface"
+  
+  
+  
+  
+  - name: "Low Power Design"
 interests:
   - name: "Digital illustration"
+  
+
+  - name: "Lawn Tennis"
    
