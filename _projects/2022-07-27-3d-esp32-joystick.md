@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title: Agrimechatronics- The future of Smart farming
 image: 
   path: \assets\img\blog\Agrimechatronics\farm_unsplash.jpg

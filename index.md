@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: welcome
 cover: true
 image: /assets/img/blog/hydejack-9.jpg
 description: >
@@ -10,9 +10,12 @@ buttons: |
   [Download](#download){:.btn.btn-primary}
   [Documentation](/docs){:.btn.btn-default}
 selected_projects:
+  - _projects/2022-07-27-3d-esp32-joystick.md
+projects_page: projects.md
+selected_projects:
   - _gallery/2022-07-27-plane.md
-projects_page: gallery.md
-no_third_column: true
+more_projects: gallery.md
+no_third_column: false
 permalink: /
 ---
 
@@ -22,14 +25,16 @@ This is a collection of all my personal projects I have worked on or presently w
 
 <!--projects-->
 
-See [Projects](/projects/)
-{:.read-more}
+
 
 
 ## My Gallery
 
+<!--projects-->
 <!--gallery-->
-See [Projects](/gallery/)
+<!--posts-->
+
+See [Posts](/posts/) for more
 {:.read-more}
 
 
