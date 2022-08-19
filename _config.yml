@@ -75,7 +75,7 @@ menu:
  - title: Projects
    url: /projects/
  - title: Blog
-   url: /posts/ 
+   url: /blog/
  - title: Resume
    url: /resume
  - title: Gallery
@@ -83,7 +83,8 @@ menu:
  - title: Study Notes
    url: /resources
  - title: Linux Resources
-   url: /resources
+   url: /algonotes/
+   #url: /linuz
 
  
 
@@ -123,10 +124,21 @@ collections:
   gallery:
     permalink:         /gallery/:path/
     output:            true
+
+  linuz:
+    permalink:         /linuz/:path/
+    output:            true
+
+  algonotes:
+     permalink:         /algonotes/:path/
+     output:            true
       
 # Pagination configuration (used by the `blog` layout)
-paginate:              1
+permalink:             /blog/:categories/:year-:month-:day-:title/
+
+paginate:              10
 paginate_path:         /blog/page-:num/
+
 
 
 author: 

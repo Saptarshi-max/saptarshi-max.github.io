@@ -3,10 +3,10 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Saptarshi Nag"
-  label: "Embedded Software Developer with expertise in Firmware development"
+  label: "Embedded Software Developer"
   picture: "/assets/img/orange.png"
   email: "saptarshi.nag01@gmail.com"
-  website: "https://saptarshi-max.github.io"
+  website: "https://sapnag.me"
   summary: >
       Embedded Software Developer with more than six years of electronics industry experience and 
       an advanced knowledge of Embedded engineering discipline, processes and Agile tools for developing innovative solutions 
@@ -18,7 +18,7 @@ basics:
     address: "Noida"
     postalCode: "201307"
     city: "Noida"
-    countryCode: "IND"
+    countryCode: "INDIA"
     region: "Uttar Pradesh"
   profiles:
     - network: "Github"
@@ -28,29 +28,33 @@ basics:
       username: "Saptarshi108"
       url: "https://twitter.com/Saptarshi108"
     - network: "LinkedIn"
-      username: "Saptarshi Nag"
-      url: ""
+      username: "saptarshi-nag01"
+      url: "https://www.linkedin.com/in/saptarshi-nag01/"
 work:
-  - company: 
-    position: 
-    website: "dsd"
-    startDate:
-    place: 
+  - company: HCL Technologies 
+    position: Senior Consultant 
+    website: "https://www.hcltech.com/Internet-of-Things-IoT"
+    startDate: "2022-04-25"
+    place: Noida, India
     summary: >
     highlights: 
-        - "Pre-Silicon verification" 
-        - "Pre-Silicon verification"
+        - "Provide support to multiple teams to 
+           help establishing sensor interface and with embedded device setup" 
+        - "Software debugging and optimization"
+        - "Supervising Interns"
+        - "Product Documentation,Testing and Validation"
   - company: Micron 
-    position: "Embedded System Engineer"
-    website: "dsd"
+    position: "Embedded System Engineer - (Contract)"
+    website: ""
     startDate: "2021-07-01"
+    endDate: "2022-04-20"
     place: Hyderabad, India
     summary: >
     highlights: 
         - "Pre-Silicon verification" 
   - company: "TalTech, Estonia"
     position: "Early Stage Researcher"
-    website: "https://piedpiper.com"
+    website: "https://taltech.ee/en/biorobotics"
     startDate: "2018-07-01"
     endDate: "2020-08-01"
     place: Estonia, Tallinn
@@ -70,8 +74,8 @@ work:
            
   
   - company: "ARM Embedded technologies (Consultant), Noida"
-    position: "Layout Engineer"
-   # website: "https://piedpiper.com"
+    position: "Circuit Layout Design Engineer"
+    website: "https://arm.com"
     startDate: "2013-12-01"
     endDate: ""
     summary: > 
@@ -81,8 +85,8 @@ work:
       - "Involved in testing and checks for quality assurance and final verification of the layout designs"
       - "Developed deep understanding of ARM architecture and memory architecture"
   - company: "Glitz India Pvt Limited"
-    position: "Early Stage Researcher"
-   # website: "https://piedpiper.com"
+    position: "Graduate Engineer"
+    website: "https://www.indiamart.com/glitz-india/"
     startDate: "2013-12-01"
     endDate: ""
     summary: >
@@ -139,8 +143,8 @@ education:
   - institution: "Kingston University"
     area: "Embedded Systems with Management studies"
     studyType: "Masters in Science (MSc)"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
+    startDate: "2017-06-01"
+    endDate: "2018-01-01"
     
     courses:
       - "DB1101 - Basic SQL"
@@ -161,7 +165,7 @@ publications:
     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Firmware Development"
+  - name: "C/C++"
     level: "Master"
     keywords:
       - "Bare-metal"
@@ -181,20 +185,42 @@ languages:
   - language: "Bengali"
     fluency: "Native speaker"
 rinterests:
-  - name: "Embedded Systems"
-  - name: "Machine learning on Edge devices"
-  - name: "Real-Time Computer Systems"
-  - name: "Safety-Critical or Fault Tolerance Systems "
-  - name: "Industrial Cyber-Physical Systems"
-  - name: "Human Machine Interface"
+  - name: "Fault Tolerant & Safety-Critical Systems"
+  - name: "Design Patterns & Code Optimization"
+  - name: "Battery Management & Low Power Design"
+  - name: "Design Space Exploration"
   
   
-  
-  
-  - name: "Low Power Design"
+ 
 interests:
   - name: "Digital illustration"
+    keywords: 
+      - "Blender 3D"
+      - "Affinity Designer"
+      - "Affinity Photo"
+      - "Sketchbook Pro"
+  - name: "Philosophy"
+    keywords: 
+      - "Stoicism"
+      - "Minimalism"
+      - "Metaphysics"
+      - "Epistemology"
+  - name: "Music"
+    keywords:   
+      - "Lo-fi Mix"    
+      - "Indian Folk Songs"
+      - "Rabindra Sangeet"
+      - "Jazz"
+      - "AfroBeat"
+      - "Beethoven"
+      - "Chastushka"
+      - "Asian Flute Music"
+      
+
   
 
   - name: "Lawn Tennis"
+    keywords: 
+      - "Clay Court"
+      - "Carpet Court"
    

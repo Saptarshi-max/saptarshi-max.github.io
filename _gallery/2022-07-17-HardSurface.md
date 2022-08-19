@@ -1,0 +1,49 @@
+---
+layout: project
+title: Hard Surface farming
+image: 
+  path: ../images/95d4efe983fdc8cbbcd0f9b98c0cf5f10e6d072ed24910fb402df089ec395381.png
+
+description: >
+  Agrimechatronics is a new branch of [Duck Duck Go](https://duckduckgo.com)  mechanatronics which explore the scope of electronics and mechanics involved in transforming the way we have been farming.
+links:
+  - title:   Demo
+    url:     http://hyde.getpoole.com
+  - title:   Source
+    url:     https://github.com/poole/hyde
+  - title:   Demo
+    url:     http://hyde.getpoole.com
+  - title:   Source
+    url:     https://github.com/poole/hyde
+author:      mdo
+big_project: true
+sitemap: false
+
+accent_color: '#ccc'
+theme_color: '#ccc'
+
+invert_sidebar: true
+---
+# Hard Surface
+
+- Table of Contents
+{:toc .large-only}
+
+## Introduction 
+Just to check ...
+this is some texts.
+This one is blog
+Hello world post 
+While this tutorial was written with Windows in mind, the only difference per platform is how you install Jekyll and file paths. {:.note}
+## History
+
+Elements of file handling in the project.
+
+## What the future holds ?
+
+## Geographical and economical Challenges 
+<button class="btn btn-sm btn-primary" onclick=" window.open('https://github.com/TsekNet/PowerShell-Profile','_blank')" value="View Source on Github">
+  <small class="icon-github"></small> View Source on Github
+</button>
+
+

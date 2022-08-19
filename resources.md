@@ -32,7 +32,7 @@ A collection of all my random blog posts
   loading="lazy"
 />
       
-<! --</div> -->
+<! --</div> 
   </a>
   
   
@@ -49,11 +49,15 @@ A collection of all my random blog posts
     
   <div class="column column-1-2"> 
 
+
+
+
+
 <article class="project-card">
   <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
 
-  <img
+    <img
   
     src="../images/95d4efe983fdc8cbbcd0f9b98c0cf5f10e6d072ed24910fb402df089ec395381.png"
     
@@ -67,14 +71,31 @@ A collection of all my random blog posts
   loading="lazy"
 />
       
-<! --</div> -->
+ 
+    </div>
   </a>
-
-  
   <h3 class="project-card-title flip-project-title">
-    <a href="/blog/2021/08/09/yocto.html" class="flip-title">AI/ML&nbsp;Notes</a>
+    <a href="/blog/2021/08/09/yocto.html" class="flip-title">ML/DL&nbsp;Notes</a>
   </h3>
   
+  
+  <a class="fill-card no-hover" href="/blog/2021/08/09/yocto.html" tabindex="-1"><span class="sr-only">Continue reading Yocto
+</span></a>
+</article>
+
+  </div>
+    
+  <div class="column column-1-2"> 
+
+<article class="project-card">
+  <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/blog/2021/08/09/yocto.html" class="flip-title">Computer&nbsp;Architecture&nbsp;Notes</a>
+  </h3>
   
   
   <a class="fill-card no-hover" href="/blog/2021/08/09/yocto.html" tabindex="-1"><span class="sr-only">Continue reading Yocto
@@ -89,12 +110,7 @@ A collection of all my random blog posts
   <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
 
-    <article class="project-card">
-  <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
-    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
-
-   
-   <img
+    <img
   
     src="../images/95d4efe983fdc8cbbcd0f9b98c0cf5f10e6d072ed24910fb402df089ec395381.png"
     
@@ -108,11 +124,12 @@ A collection of all my random blog posts
   loading="lazy"
 />
       
-<! --</div> -->
-  </a>
 
+
+    </div>
+  </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/blog/2021/08/09/yocto.html" class="flip-title">Yocto</a>
+    <a href="/blog/2021/08/09/yocto.html" class="flip-title">My&nbsp;Circuit&nbsp;Design&nbsp;Notes</a>
   </h3>
   
   
@@ -131,7 +148,7 @@ A collection of all my random blog posts
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/blog/2021/08/09/yocto.html" class="flip-title">Yocto</a>
+    <a href="/blog/2021/08/09/yocto.html" class="flip-title">ROS&nbsp;&&nbsp;Robotics&nbsp;Notes</a>
   </h3>
   
   
@@ -150,7 +167,7 @@ A collection of all my random blog posts
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/blog/2021/08/09/yocto.html" class="flip-title">Yocto</a>
+    <a href="/algonotes/" class="flip-title">Notes&nbsp;on&nbsp;Single-Board&nbsp;Computers</a>
   </h3>
   
   
@@ -161,9 +178,3 @@ A collection of all my random blog posts
   </div>
     
   <div class="column column-1-2"> 
-
-    
-
-
-
-  
