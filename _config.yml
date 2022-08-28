@@ -72,8 +72,7 @@ compress_html:
 sass:
   style:               compressed
 menu:
- - title: Projects
-   url: /projects/
+ 
  - title: Blog
    url: /blog/
  - title: Resume
@@ -82,9 +81,10 @@ menu:
    url: /gallery/
  - title: Study Notes
    url: /resources
- - title: Linux Resources
-   url: /algonotes/
+ 
    #url: /linuz
+ - title: My Side Projects
+   url: /projects/
 
  
 

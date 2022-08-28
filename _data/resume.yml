@@ -76,8 +76,8 @@ work:
   - company: "ARM Embedded technologies (Consultant), Noida"
     position: "Circuit Layout Design Engineer"
     website: "https://arm.com"
-    startDate: "2013-12-01"
-    endDate: ""
+    startDate: "2015-08-01"
+    endDate: "2016-10-31"
     summary: > 
       
     highlights:
@@ -87,8 +87,8 @@ work:
   - company: "Glitz India Pvt Limited"
     position: "Graduate Engineer"
     website: "https://www.indiamart.com/glitz-india/"
-    startDate: "2013-12-01"
-    endDate: ""
+    startDate: "01-01-2013"
+    endDate: "28-02-2014"
     summary: >
       
     highlights:
@@ -153,7 +153,7 @@ education:
   - institution: "CDAC"
     area: "Embedded Systems with integrated VLSI"
     studyType: "Post graduation Diploma"
-    startDate: "2011-06-01"
+    startDate: "2014-06-01"
     endDate: "2014-01-01"
     
     
