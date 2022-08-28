@@ -96,14 +96,35 @@ A collection of all my random blog posts
 <article class="project-card">
   <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
-      
+
+   <img
+  
+    src="../images/84d4d7c2c13b746fc2d53c4b56911ea894ce19a1c02812de11c77935d82b0712.png"
+    
+    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+  
+  alt="Yocto"
+  
+  
+  width="864"
+  height="486"
+  loading="lazy"
+/>
+
+
+
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
     <a href="/blog/2021/08/09/yocto.html" class="flip-title">Computer&nbsp;Architecture&nbsp;Notes</a>
   </h3>
   
-  
+
+
+
+
+
+ 
   <a class="fill-card no-hover" href="/blog/2021/08/09/yocto.html" tabindex="-1"><span class="sr-only">Continue reading Yocto
 </span></a>
 </article>
