@@ -162,21 +162,32 @@ publications:
   - name: "Underwater bioinspired sensing: New opportunities to improve environmental monitoring"
     publisher: "Institute of Electrical and Electronics Engineers Inc."
     releaseDate: "2020-04-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    website: "https://ieeexplore.ieee.org/document/9062685"
     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
   - name: "C/C++"
     level: "Master"
     keywords:
-      - "Bare-metal"
-      - "FreeRTOS"
+      - "Embedded C"
+      - "C++17"
+      - "Qt"
+      - "OpenCV"
+      - "OpenMP"
+      - "CUDA"
       
-  - name: "Compression"
+      
+  - name: "Python"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Pandas"
+      - "NumPy"
+      - "Matplotlib"
+      - "Scikit-Learn"
+      - "NetworkX"
+      - "Tensorflow"
+      - "Pytorch"
+
+  - name: ""    
 languages:
   - language: "English"
     fluency: "Native speaker"
