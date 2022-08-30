@@ -2,6 +2,7 @@
 layout: welcome
 cover: true
 image: /assets/img/blog/hydejack-9.jpg
+title: Hey there 
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
@@ -24,12 +25,14 @@ no_third_column: false
 permalink: /
 ---
 
+<!--author-->
 
-## My Projects 
-This is a collection of all my personal projects I have worked on or presently working on ...
+## Hello Internet 👋 
+
+Welcome to my Profile Website, A little place on the internet where I share my portfolio, personal projects, Artworks and Study materials for myself which I would love to share with others. 
 
 <!--projects2-->
-<p>This is a collection of all my personal projects I have worked on or presently working on …</p>
+
 
 <!--projects2-->
 

@@ -9,7 +9,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-   I am a graduate in Electronics Engineering, with speciality in Embedded Software Design. You can check out my (Resume)[https://saptarshi-max.github.io/resume] to learn about me more.  
+   I am a graduate in Electronics Engineering, with 
+   speciality in Embedded Software Design. You can check out my [Resume](https://saptarshi-max.github.io/resume) to learn about me more.  
   # This photo will be used in the about section
   picture:
     path:             /assets/img/gallery/profile.png
