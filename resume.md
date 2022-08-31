@@ -12,7 +12,7 @@ left_column:
   - publications
 right_column:
   - skills
-  - languages
+  - lrinterests
   - rinterests
   - interests
 no_language_icons: false

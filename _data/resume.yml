@@ -187,11 +187,11 @@ skills:
       - "Tensorflow"
       - "Pytorch"
 
-  - name: ""    
+    
 languages:
   - language: "English"
     fluency: "Native speaker"
-    details: "English speaker
+    details: "English speaker"
   - language: "Hindi"
     fluency: "Native speaker"
   - language: "Bengali"
@@ -201,6 +201,22 @@ rinterests:
   - name: "Design Patterns & Code Optimization"
   - name: "Battery Management & Low Power Design"
   - name: "Design Space Exploration"
+
+lrinterests:
+  - name: "English"
+    level: "Master"
+    keywords:
+    - "IELTS Academic: Band 7.0 - Appeared June 2018"
+    - "IELTS Academic: Band 7.0 - Appeared Aug 2016"
+  - name: "Hindi"
+    level: "Master"
+    keywords:
+    - "Bilingual Proficiency"  
+  - name: "Bengali"
+    level: "Master"
+    keywords:
+      - "Native Speaker"  
+  
   
   
  
