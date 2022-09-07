@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Basics
+title: Linux Shell Scrpting Fundamentals
 image: 
   path: \assets\img\blog\Agrimechatronics\farm_unsplash.jpg
 description: >

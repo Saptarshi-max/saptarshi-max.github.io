@@ -42,11 +42,11 @@ slideshare:
 kaggle:
   name: Kaggle
   icon: icon-kaggle-brands
-  prepend: "https://www.slideshare.com/"
+  prepend: "https://www.kaggle.com/"
 hackster:
   name: Hackster
   icon: icon-Hackster-Mark_BW
-  prepend: "https://www.slideshare.com/"
+  prepend: "https://www.sl.com/"
 researchgate:
   name: Researchgate
   icon: icon-researchgate-brands

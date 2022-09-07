@@ -239,7 +239,7 @@ A collection of all my random blog posts
   <div class="column column-1-2">  
 
   <article class="project-card">
-  <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
+  <a href="/linuz/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
 
     <img
