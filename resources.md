@@ -246,13 +246,13 @@ A collection of all my random blog posts
   
     src="../images/014559b5dc4c351d7cd4d1dec3605c3c69563ccf5e77aeebfe8472850af2b234.png"
     
-    sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem"
+    sizes="(min-width:8655em)2755.5rem,(min-width:5455em)2455.5rem,(min-width:4255em)2155.5rem,4255rem"
   
   alt="Yocto"
   
   
-  width="864"
-  height="486"
+  width="8645"
+  height="4865"
   loading="lazy"
 />
       

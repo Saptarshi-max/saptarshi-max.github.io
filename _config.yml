@@ -1,13 +1,13 @@
 lang:                  en
 title:                 Saptarshi Nag
 logo:                  /assets/img/circle-cropped.png
-description:           Embedded System Engineer
+description:           Embedded System Engineer 
 copyright:            
 accent_image:          /assets/img/blog/Temple.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25, 55, 71)
 tagline:               >
-  Embedded Software Developer  
+ Embedded System Engineer 
 google_fonts:          Lora:400,400i
 font:                  Lora
 font_heading:          Lora
