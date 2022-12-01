@@ -41,7 +41,9 @@ Collecting contents to write a Documentation can be like running in a maze, With
 
 ### 6. Maintenance and Accessibility 
 
-
+| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+|:--:| 
+| *Space* |
 
 
 

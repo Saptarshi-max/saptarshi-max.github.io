@@ -7,7 +7,10 @@ accent_image:          /assets/img/blog/Temple.jpg
 accent_color:          rgb(79,177,186)
 theme_color:           rgb(25, 55, 71)
 tagline:               >
- Embedded System Engineer 
+ <br />
+ + PhD Student at Inria, Rennes <br />
+ + Embedded System Engineer <br />
+ + Scientific Illustrator 
 google_fonts:          Lora:400,400i
 font:                  Lora
 font_heading:          Lora
@@ -79,7 +82,7 @@ menu:
    url: /resume
  - title: Gallery
    url: /gallery/
- - title: Study Notes
+ - title: Teaching Notes
    url: /resources
  
    #url: /linuz
