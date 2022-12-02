@@ -82,6 +82,11 @@ menu:
    url: /resume
  - title: Gallery
    url: /gallery/
+   menu:
+      - title:  Gallery
+        url:    /gallery/
+      - title:  Tutorials
+        url:    /gallery/
  - title: Teaching Notes
    url: /resources
  
