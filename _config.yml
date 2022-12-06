@@ -76,17 +76,17 @@ sass:
   style:               compressed
 menu:
  
- - title: Blog
+ - title: Blog &#8631;
    url: /blog/
- - title: Resume
-   url: /resume
- - title: Gallery
-   url: /gallery/
    menu:
-      - title:  Gallery
+      - title:  "#Tags"
         url:    /gallery/
-      - title:  Tutorials
+      #- title:  "&#10001; Timeline of Publish"
         url:    /gallery/
+ - title: My Resume
+   url: /resume
+ - title: Gallery 
+   url: /gallery/
  - title: Teaching Notes
    url: /resources
  
