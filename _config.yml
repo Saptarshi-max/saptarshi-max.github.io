@@ -79,9 +79,9 @@ menu:
    url: /blog/
    menu:
       - title:  "#Tags"
-        url:    /gallery/
+        url:    /tags/
       #- title:  "&#10001; Timeline of Publish"
-        url:    /gallery/
+      # url:    /gallery/
  - title: My Resume
    url: /resume
  - title: Gallery 
