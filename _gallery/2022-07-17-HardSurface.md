@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Hard Surface farming
+title: Artworks
 image: 
-  path: ../images/95d4efe983fdc8cbbcd0f9b98c0cf5f10e6d072ed24910fb402df089ec395381.png
+  path: /assets/img/gallery/plane.png
 
 description: >
-  Agrimechatronics is a new branch of [Duck Duck Go](https://duckduckgo.com)  mechanatronics which explore the scope of electronics and mechanics involved in transforming the way we have been farming.
+  
 links:
   - title:   Demo
     url:     http://hyde.getpoole.com
@@ -16,13 +16,13 @@ links:
   - title:   Source
     url:     https://github.com/poole/hyde
 author:      mdo
-big_project: true
+big_project: false
 sitemap: false
 
 accent_color: '#ccc'
 theme_color: '#ccc'
 
-invert_sidebar: true
+invert_sidebar: false
 ---
 # Hard Surface
 
@@ -47,3 +47,33 @@ Elements of file handling in the project.
 </button>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+        
+
+
+
+
+![Full-width image](/assets/img/gallery/plane.png){:.lead width="800" height="100" loading="lazy"}
+
+![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100" loading="lazy"}
+
+
+
+![Full-width image](/assets/img/gallery/data_acquisition.png){:.lead width="800" height="100" loading="lazy"}

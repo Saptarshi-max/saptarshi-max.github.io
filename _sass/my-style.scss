@@ -179,9 +179,9 @@ applause-button {
     color:#996633;
     text-shadow:0px 1px 0px rgba(255,255,255,.4);
     padding:0.417em 0.417em 0.417em 0.917em;
-    border-top:1px solid #d99d38;
-    border-right:1px solid #d99d38;
-    border-bottom:1px solid #d99d38;
+    border-top:1px solid #38c6d9;
+    border-right:1px solid #38c6d9;
+    border-bottom:1px solid #38c6d9;
     -webkit-border-radius:0 0.25em 0.25em 0;
     -moz-border-radius:0 0.25em 0.25em 0;
     border-radius:0 0.25em 0.25em 0;
@@ -228,5 +228,114 @@ applause-button {
     border-radius:0 0 0 0.25em;
     z-index:-1;
   }
+  
+  .tagee:after {
+    content:'';
+    width:0.8em;
+    height:0.8em;
+    background:#fff;
+    -webkit-border-radius:4.167em;
+    -moz-border-radius:4.167em;
+    border-radius:4.167em;
+    border:1px solid #d99d38;
+    -webkit-box-shadow:0 1px 0 #faeaba;
+    -moz-box-shadow:0 1px 0 #faeaba;
+    box-shadow:0 1px 0 #faeaba;
+    position:absolute;
+    top:0.77em;
+    left:-1.008px;
+    z-index:9999;
+  }
+
+  .tagsoo{
+    margin:0;
+    padding:0;
+    position:absolute;
+    right:24px;
+    bottom:-14px;
+    list-style:none;
+    }	
+  .tagsoo li, .tagsoo a{
+    float:left;
+    height:26px;
+    line-height:24px;
+    position:relative;
+    font-size:14px;
+    }	
+  .tagsoo a{
+    margin-left:20px;
+    padding:0 10px 0 12px;
+    background:#0089e0;
+    color:#fff;
+    text-decoration:none;
+    -moz-border-radius-bottomright:4px;
+    -webkit-border-bottom-right-radius:4px;	
+    border-bottom-right-radius:4px;
+    -moz-border-radius-topright:4px;
+    -webkit-border-top-right-radius:4px;	
+    border-top-right-radius:4px;	
+    }	
+  .tagsoo a:before{
+    content:"";
+    float:left;
+    position:absolute;
+    top:0;
+    left:-12px;
+    width:0;
+    height:0;
+    border-color:transparent #0089e0 transparent transparent;
+    border-style:solid;
+    border-width:12px 12px 14px 0;		
+    }	
+  .tagsoo a:after{
+    content:"";
+    position:absolute;
+    top:10px;
+    left:0;
+    float:left;
+    width:4px;
+    height:4px;
+    -moz-border-radius:2px;
+    -webkit-border-radius:2px;
+    border-radius:2px;
+    background:#fff;
+    -moz-box-shadow:-1px -1px 2px #004977;
+    -webkit-box-shadow:-1px -1px 2px #004977;
+    box-shadow:-1px -1px 2px #004977;
+    }		
+  
+  .tagsoo a:hover{background:#555;}	
+  .tagsoo a:hover:before{border-color:transparent #555 transparent transparent;}
+
+  
+  /* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats */
+.row:after {
+  content: "";
+  display: table;
+   clear: both;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+  
+  
+  
   
   @import "sub-menu";

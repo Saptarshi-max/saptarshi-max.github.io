@@ -7,6 +7,7 @@ description:
 ---
 
 
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -40,10 +41,11 @@ description:
   <div class="column">
     <img src="/assets/img/gallery/plane.png" alt="Snow" style="width:100%">
   </div>
-  <div class="column">
+  
+<div class="column column-1">
     <img src="/assets/img/gallery/plane.png" alt="Forest" style="width:100%">
   </div>
-  <div class="column">
+  <div class="column column-1-2">
     <img src="/assets/img/gallery/plane.png" alt="Mountains" style="width:100%">
   </div>
   <div class="column">
@@ -223,6 +225,7 @@ div.container {
   <img src="/assets/img/gallery/plane.png" alt="5 Terre" style="width:100%">
   <div class="container">
   <p>Cinque Terre</p>
+  
   </div>
 </div>
 
@@ -230,8 +233,11 @@ div.container {
   <img src="/assets/img/gallery/plane.png" alt="Norther Lights" style="width:100%">
   <div class="container">
   <p>Northern Lights</p>
+  
   </div>
 </div>
+
+
 
 </body>
 </html>
