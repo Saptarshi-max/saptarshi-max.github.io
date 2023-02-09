@@ -12,5 +12,6 @@ accent_color: '#ccc'
 theme_color: '#ccc'
 tags: [ future-prediction]
 invert_sidebar: true
+
 ---
 
