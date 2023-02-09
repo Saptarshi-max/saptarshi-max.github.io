@@ -6,5 +6,6 @@ description: >
   A collection of the hardware, software, and technical writing projects that I work on.
 featured_tags: [algorithms,cpp]
 menu: true
-grouped: true
+grouped: false
+no_groups: true
 ---

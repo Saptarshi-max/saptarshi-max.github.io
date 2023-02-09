@@ -5,7 +5,7 @@ image:
   path: /assets/img/gallery/ubuntu-cover.jpg
 description: >
   Agrimechatronics is a new branch of mechanatronics which explore the scope of electronics and mechanics involved in transforming the way we have been farming.
-sitemap: false
+sitemap: true
 width: 1760px
 
 accent_color: '#ccc'

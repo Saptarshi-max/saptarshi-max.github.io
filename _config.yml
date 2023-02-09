@@ -86,13 +86,13 @@ menu:
    url: /resume
  - title: Gallery 
    url: /image_gallery
- - title: Teaching Notes
-   url: /resources
+
  
    #url: /linuz
  - title: My Side Projects
    url: /projects/
-
+ - title: My Learning Resources
+   url: /resources
  
 
 plugins:
