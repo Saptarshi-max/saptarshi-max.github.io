@@ -13,3 +13,4 @@ hide_image: false
 grouping: true
 ---
 
+<h1>{{ page.food }}</h1>

@@ -4,6 +4,7 @@ title: My Artworks
 description: 
   During my spare time, I love to try my hands on Digital illustrations and Concept Sketching. The software I use for designing are Affinity Designer, Affninty Photo, Sketchbook Pro, Blender, FreeCAD
 
+no_third_column: false
 ---
 
 
