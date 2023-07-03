@@ -2,7 +2,7 @@
 layout: welcome
 cover: true
 image: /assets/img/blog/hydejack-9.jpg
-title: Hey there 🎉
+title: Hi, My name is Saptarshi
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
@@ -30,7 +30,7 @@ permalink: /
 
 
 
-Welcome to my Profile Website, A little place on the internet where I share my portfolio, personal projects, Artworks and Study materials for myself which I would love to share with others. 
+Welcome to my Profile Website, A little place on the internet where I share my portfolio, personal projects, Artworks and Study materials which I would love to share with others. 
 
 <!--author-->
 
