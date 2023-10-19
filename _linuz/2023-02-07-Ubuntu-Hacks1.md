@@ -23,7 +23,7 @@ Ubuntu, my personal favourite Linux distribution Which was launched back in 2004
 3. Core for IoT devices
 
 
-
+Lets start with the Server Edition, 
 
 
 

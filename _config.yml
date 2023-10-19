@@ -12,7 +12,7 @@ tagline:               >
  
 google_fonts:          Lora:400,400i
 font:                  Lora
-font_heading:          Lora
+font_heading:          Bitter, serif;
 font-code:             Fira Code, Menlo, Monaco, Consolas, monospa
 
 hydejack:
@@ -35,7 +35,7 @@ hydejack:
   no_break_layout:     true
   no_toc:              false
   no_third_column:     false
-  no_large_headings:   false
+  no_large_headings:   true
   no_structured_data:  false
   no_theme_color:      false
   no_breadcrumbs:      false
@@ -89,9 +89,9 @@ menu:
 
  
    #url: /linuz
- - title: My Side Projects
+ - title: My Projects
    url: /projects/
- - title: My Learning Resources
+ - title: Learning Resources
    url: /resources
  
 

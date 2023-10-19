@@ -5,8 +5,8 @@ description: Some freebies to take away from this website!
 
 
 
-## Posts
-A collection of all my random blog posts 
+## Learning Categories
+Categories of my Blog Posts which can help you with learning about latest trends in Computer Science , Open-source software and Programming. 
 <!--posts-->
 
 
