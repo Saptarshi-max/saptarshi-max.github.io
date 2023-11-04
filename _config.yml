@@ -32,7 +32,7 @@ hydejack:
   no_search:           false
   no_inline_css:       false
   no_page_style:       false
-  no_break_layout:     true
+  no_break_layout:     false
   no_toc:              false
   no_third_column:     false
   no_large_headings:   true
@@ -44,6 +44,21 @@ hydejack:
   advertise:           true
   hide_dates:          false
   hide_last_modified:  false
+   # Set to `true` if third party plugins fail to work with dynamically loaded pages
+  no_push_state:       true
+
+  # Set to `true` if you want to disable the drawer
+  no_drawer:           true
+
+  # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.
+  # Note that this will not hide the navbar completely, only replace it with a static one.
+  # Use custom css to hide completely, e.g. `#_navbar { display: none }`.
+  no_navbar:           true
+
+  # Set to true to disable the built-in search functionality.
+  # Note that search is disabled during local use to save on build time.
+  # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
+  no_search:           false
   dark_mode:
     always:            false
     dynamic:           true
@@ -78,8 +93,10 @@ menu:
  - title: Blog &#8631;
    url: /blog/
    menu:
-      - title:  "#Tags"
+      - title:  "Tags"
         url:    /tags/
+      - title: "Category"
+        url:    /resources
       #- title:  "&#10001; Timeline of Publish"
       # url:    /gallery/
  - title: My Resume
