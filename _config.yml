@@ -8,7 +8,7 @@ accent_color:          rgb(79,177,186)
 theme_color:           rgb(25, 55, 71)
 tagline:               >
  <br />
-  Embedded Software Developer | Research Student <br />
+  Embedded Software Developer <br />
  
 google_fonts:          Lora:400,400i
 font:                  Lora
@@ -28,8 +28,8 @@ hydejack:
   no_mark_external:    false
   no_push_state:       true
   no_drawer:           true
-  no_navbar:           true
-  no_search:           true
+  no_navbar:           false
+  no_search:           false
   no_inline_css:       false
   no_page_style:       false
   no_break_layout:     false
@@ -43,7 +43,8 @@ hydejack:
   cookies_banner:      true
   advertise:           true
   hide_dates:          false
-  hide_last_modified:  false
+  hide_last_modified:  true
+  no_clap_button:      true
    # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       true
 
@@ -90,13 +91,13 @@ sass:
   style:               compressed
 menu:
  
- - title: Blog &#8631;
+ - title: Blog
    url: /blog/
-   menu:
-      - title:  "#Tags"
-        url:    /tags/
-      - title: "Category"
-        url:    /resources
+   #menu:
+      #- title:  "#Tags"
+      #  url:    /tags/
+      #- title: "Category"
+      #  url:    /resources
       #- title:  "&#10001; Timeline of Publish"
       # url:    /gallery/
  - title: My Resume
@@ -108,7 +109,7 @@ menu:
    #url: /linuz
  - title: My Projects
    url: /projects/
- - title: Learning Resources
+ - title: Learning Journals
    url: /resources
  
 
