@@ -45,7 +45,7 @@ Categories of my Blog Posts which can help you with learning about latest trends
    
 
 
-  <a class="fill-card no-hover" href="/algonotes/" tabindex="-1"><span class="sr-only">Continue reading Yocto
+  <a class="fill-card no-hover" href="/algonotes/" tabindex="-1"><span class="sr-only">
 </span></a>
 </article>
 
@@ -226,7 +226,7 @@ Categories of my Blog Posts which can help you with learning about latest trends
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/algonotes/" class="flip-title">Notes&nbsp;on&nbsp;Single-Board&nbsp;Computers</a>
+    <a href="/edge/" class="flip-title">Real-time&nbsp;Edge&nbsp;System&nbsp;Notes</a>
   </h3>
   
   

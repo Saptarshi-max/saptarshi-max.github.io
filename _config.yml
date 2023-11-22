@@ -107,8 +107,8 @@ menu:
 
  
    #url: /linuz
- - title: My Projects
-   url: /projects/
+ #- title: My Projects
+ # url: /projects/
  - title: Learning Journals
    url: /resources
  
@@ -156,6 +156,10 @@ collections:
 
   algonotes:
      permalink:         /algonotes/:path/
+     output:            true
+
+  edge:
+     permalink:         /edge/:path/
      output:            true
       
 # Pagination configuration (used by the `blog` layout)
