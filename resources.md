@@ -1,12 +1,20 @@
 ---
-title: Study Guides and Freebie Materials
-description: Some freebies to take away from this website!
+title: My Study Logs
+description: 
+Learning is like an endless adventure, you know? It's a lifelong thing that keeps getting cooler. But you wanna know what really rocks? Sharing the good stuff! That's where I spill the tea on my notes and study vibes. Dive in, and let's nerd out together! Here you will find all my Study Notes I collected and would like to share ...
+
 ---
 
 
 
-## Learning Categories
-Categories of my Blog Posts which can help you with learning about latest trends in Computer Science , Open-source software and Programming. 
+## My Study Logs
+
+Learning is like an endless adventure, you know? It's a lifelong thing that keeps getting cooler. But you wanna know what really rocks? Sharing the good stuff! That's where I spill the tea on my notes and study vibes. Dive in, and let's nerd out together! 
+
+> Here you will find all my Study Notes I collected and would like to share ...
+
+
+
 <!--posts-->
 
 

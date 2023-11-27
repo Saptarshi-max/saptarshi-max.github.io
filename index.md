@@ -35,8 +35,8 @@ Welcome to my Profile Website, A little place on the internet where I share my p
 
 
 
-## Posts
-A collection of all my random blog posts 
+## My Blog Posts
+Some of my Blog contents 
 <!--posts-->
 
 See [Posts](/posts/) for more
