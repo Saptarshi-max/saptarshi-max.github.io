@@ -11,7 +11,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
 
 Learning is like an endless adventure, you know? It's a lifelong thing that keeps getting cooler. But you wanna know what really rocks? Sharing the good stuff! That's where I spill the tea on my notes and study vibes. Dive in, and let's nerd out together! 
 
-> Here you will find all my Study Notes I collected and would like to share ...
+> 🗒️ Here are the subcategories of my blog posts which consists of my own personal learning notes (Some in PDF). Feel free to download, share or customise  ...
 
 
 

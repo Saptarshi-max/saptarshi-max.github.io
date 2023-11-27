@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tips on getting started with TiKz
+title: Great References point to get started with Machine learning on Embedded Systems
 image: 
   path: \assets\img\blog\Agrimechatronics\farm_unsplash.jpg
 description: >
-  Tikz is an amazing library of Latex 
+  Machine learning took over our world and lifestyle by strom, just like Electricity took our livelihood during the early 1900s and there was no turning back
 sitemap: true
 width: 1760px
 
