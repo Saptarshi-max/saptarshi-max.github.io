@@ -150,9 +150,7 @@ education:
     startDate: "2017-06-01"
     endDate: "2018-01-01"
     
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+    
 
   - institution: "CDAC"
     area: "Embedded Systems with integrated VLSI"
@@ -201,10 +199,10 @@ languages:
   - language: "Bengali"
     fluency: "Native speaker"
 rinterests:
-  - name: "Fault Tolerant & Safety-Critical Systems"
+  - name: "Human-Computer Interaction"
   - name: "Design Patterns & Code Optimization"
-  - name: "Battery Management & Low Power Design"
-  - name: "Design Space Exploration"
+  - name: "Artificial Intelligence"
+  - name: "Vision & Graphics"
 
 lrinterests:
   - name: "English"
