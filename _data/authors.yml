@@ -9,8 +9,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-   I am a Software developer who loves developing software for both Mobile Embedded devices and Desktop, primarily in C/C++ and sometimes even Java.
-   I like to keep this profile website of mine, as a place to share my personal projects, Blog posts and my leisure time activities(I like to draw in my free time). Feel free to reach out to me, all my favourite social media sites has been listed here   
+   I am a Software developer who loves developing software for both Mobile Embedded devices and Desktop applications. I also hold a MSc degree form Kingston University in Embedded Systems with Management studies as Minor subject.
+   I like to keep this profile website of mine, as a place to share my personal projects, Blog posts and my leisure time activities(I like to draw in my free time). 
   # This photo will be used in the about section
   picture:
     path:             /assets/img/gallery/profile.png
