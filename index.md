@@ -27,7 +27,7 @@ permalink: /
 
 > 🚧 Website under Construction 
 
-Welcome to my Profile Website, A little place on the internet where I share my portfolio, personal projects, Artworks and Study materials which I would love to share with others. 
+
 
 <!--author-->
 
