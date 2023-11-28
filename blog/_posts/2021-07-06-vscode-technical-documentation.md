@@ -2,7 +2,7 @@
 layout: post
 title: 8 cool VScode extensions to help you write your technical documentation
 image:
-  path: \assets\img\blog\vscode-unsplash.jpg
+  path: \assets\img\vscode-unsplash.jpg
 description: 
  Some of the great practices to write a technical Documentation, for your team or clients alike.
 tags: [vscode, Writing]
