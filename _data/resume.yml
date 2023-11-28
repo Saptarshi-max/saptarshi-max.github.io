@@ -3,16 +3,12 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Saptarshi Nag"
-  label: "Embedded Software Developer"
+  label: "Software Developer"
   picture: "/assets/img/orange.png"
   email: "saptarshi.nag01@gmail.com"
   website: "https://sapnag.me"
   summary: >
-      Embedded Software Developer with more than six years of electronics industry experience and 
-      an advanced knowledge of Embedded engineering discipline, processes and Agile tools for developing innovative solutions 
-      to ensure quality products, integrated system solutions or services to 
-      meet the technical specifications  and business demands of the ever evolving challenges and ethics of the 
-      Embedded system's industry.
+      Results-driven Software Developer with over 7 years of experience in the industry, demonstrating a strong commitment to advancing expertise in developing software in C/C++ for Embedded devices and Desktop applications. Proven ability to integrate Agile practices into the software development lifecycle and committed to producing high-quality products and integrated system solutions that meet the technical specifications and business objectives of the Embedded Systems industry. Experience working with Multi-cultural teams.
 
   location:
     address: "Noida"
@@ -31,6 +27,14 @@ basics:
       username: "saptarshi-nag01"
       url: "https://www.linkedin.com/in/saptarshi-nag01/"
 work:
+  - company: INRIA
+    position: Research Engineer
+    website: "https://www.hcltech.com/Internet-of-Things-IoT"
+    startDate: "2023-04-01"
+    place: Rennes, France
+    summary: >
+    highlights:
+        - "Worked with Open-Source Chipyard Platform to explore the scope of designing and building customizable System-on-Chip (SoC) generators."
   - company: HCL Technologies 
     position: Senior Consultant 
     website: "https://www.hcltech.com/Internet-of-Things-IoT"
@@ -44,7 +48,7 @@ work:
         - "Supervising Interns"
         - "Product Documentation,Testing and Validation"
   - company: Micron 
-    position: "Embedded System Engineer - (Contract)"
+    position: "Embedded System Engineer - (Contract- Sevya Microelectronics)"
     website: ""
     startDate: "2021-07-01"
     endDate: "2022-04-20"
