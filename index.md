@@ -33,7 +33,7 @@ Welcome to my Profile Website, A little place on the internet where I share my p
 
 <!--projects2-->
 
-<!-- 
+ 
 
 
 ## My Blog Posts
@@ -43,4 +43,3 @@ Some of my Blog contents
 See [Posts](/posts/) for more
 {:.read-more}
 
--->
