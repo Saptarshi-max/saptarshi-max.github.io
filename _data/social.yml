@@ -46,7 +46,7 @@ kaggle:
 hackster:
   name: Hackster
   icon: icon-Hackster-Mark_BW
-  prepend: "https://www.sl.com/"
+  prepend: "https://www.hackster.io/saptarshinag01"
 researchgate:
   name: Researchgate
   icon: icon-researchgate-brands

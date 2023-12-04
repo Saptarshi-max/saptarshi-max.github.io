@@ -10,6 +10,22 @@ width: 1760px
 
 accent_color: '#ccc'
 theme_color: '#ccc'
+categories: [Microcontroller]
 tags: [iiot, future-prediction]
 invert_sidebar: true
+---
+
+## Some Data 
+
+```
+
+This is the code 
+
+```
+
+
+---
+
+#include <iostream.h>
+
 ---

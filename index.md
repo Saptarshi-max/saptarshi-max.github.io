@@ -25,8 +25,7 @@ no_third_column: false
 permalink: /
 ---
 
-> 🚧 Website under Construction. 
-> Will be Completed and Back online by 02/12/2023
+
 
 
 
@@ -35,7 +34,7 @@ permalink: /
 <!--projects2-->
 
  
-<!--
+
 
 ## My Blog Posts
 Some of my Blog contents 
@@ -44,4 +43,3 @@ Some of my Blog contents
 See [Posts](/posts/) for more
 {:.read-more}
 
--->
