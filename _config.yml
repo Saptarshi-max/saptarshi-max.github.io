@@ -102,18 +102,18 @@ menu:
       #  url:    /resources
       #- title:  "&#10001; Timeline of Publish"
       # url:    /gallery/
- - title: My Projects
-   url: /projects/
- - title: Gallery 
-   url: /gallery
+# - title: My Projects
+#   url: /projects/
+# - title: Gallery 
+#   url: /gallery
 
  
    #url: /linuz
  
  - title: My Resume
    url: /resume
- - title: Learning Journals
-   url: /resources
+# - title: Learning Journals
+#   url: /resources
  
 
 plugins:
