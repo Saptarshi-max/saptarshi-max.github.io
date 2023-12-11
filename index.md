@@ -2,7 +2,7 @@
 layout: welcome
 cover: false
 image: /assets/img/blog/hydejack-9.jpg
-title: 🏗️ Under Construction 🚧  
+title: 
 description: >
 
 hide_description: true
@@ -34,7 +34,7 @@ permalink: /
 <!--projects2-->
 
  
-<!--
+
 
 
 ## My Blog Posts
@@ -44,4 +44,3 @@ Some of my Blog contents
 See [Posts](/posts/) for more
 {:.read-more}
 
--->
