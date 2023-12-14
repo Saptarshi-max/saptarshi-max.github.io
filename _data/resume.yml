@@ -11,11 +11,11 @@ basics:
       Results-driven Software Developer with over 7 years of experience in the industry, demonstrating a strong commitment to advancing expertise in developing software in C/C++ for Embedded devices and Desktop applications. Proven ability to integrate Agile practices into the software development lifecycle and committed to producing high-quality products and integrated system solutions that meet the technical specifications and business objectives of the Embedded Systems industry. Experience working with Multi-cultural teams.
 
   location:
-    address: "Noida"
-    postalCode: "201307"
-    city: "Noida"
-    countryCode: "INDIA"
-    region: "Uttar Pradesh"
+    address: "Rue de Vern"
+    postalCode: "35200"
+    city: "Rennes"
+    countryCode: "France"
+    region: "Brittany"
   profiles:
     - network: "Github"
       username: "saptarshi-max"
@@ -29,7 +29,7 @@ basics:
 work:
   - company: INRIA
     position: Research Engineer
-    website: "https://www.hcltech.com/Internet-of-Things-IoT"
+    website: "https://www.inria.fr"
     startDate: "2023-04-01"
     place: Rennes, France
     summary: >
@@ -104,11 +104,11 @@ work:
 
 
 core:
-  - company: 
-    position: 
+  - company: "iop"
+    position: jui
    # website: "https://piedpiper.com"
     startDate: 
-    endDate: ""
+    endDate: "ddd"
     summary: >
     highlights:
       - Designed Printed Circuit Boards (PCB) of voltage regulator and DC-DC converter for lighting appliances.
@@ -116,22 +116,22 @@ core:
       - Build various test cases on the prototyping modules of the TI’s MSP430 series to simulate various test environment.
       - Review the PCBs for soldering defects like dry soldering, shorting
         of connections etc
+    
 
 
 
-
-  - company: 
-    position: 
+  - company: "more"
+    position: something
    # website: "https://piedpiper.com"
     startDate: 
     endDate: ""
-    summary: >
+    summary: > 
 
 
 
     highlights:
 
-    
+      
       - Designed Printed Circuit Boards (PCB) of voltage regulator and DC-DC converter for lighting appliances.
       - Designed, Developed and verified various hardware for production stages, documenting the workflow to create Bill of Materials (BOM).
       - Build various test cases on the prototyping modules of the TI’s MSP430 series to simulate various test environment.

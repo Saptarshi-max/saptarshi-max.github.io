@@ -2,7 +2,7 @@
 layout: welcome
 cover: false
 image: /assets/img/blog/hydejack-9.jpg
-title: 
+title: Hello World
 description: >
 
 hide_description: true
