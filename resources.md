@@ -23,7 +23,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
 
 
 <article class="project-card">
-  <a href="/algonotes/" class="no-hover no-print-link flip-project" tabindex="-1">
+  <a href="/programming/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
 
     <img
@@ -45,7 +45,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
   
   
   <h3 class="project-card-title flip-project-title">
-    <a href="/algonotes/" class="flip-title">Programming&nbsp;&&nbsp;Algorithms&nbsp;Notes</a>
+    <a href="/programming/" class="flip-title">Programming&nbsp;&&nbsp;Algorithms&nbsp;Notes</a>
   </h3>
   
   
