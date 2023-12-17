@@ -35,11 +35,17 @@ no_third_column: false
 </head>
 <body>
 
-<h2>Digital Sketches</h2>
-<p>Made using Affinity Designer:</p>
+<h2>Digital Illustrations</h2>
+<p></p>
 
 <div class="row">
   <div class="column">
     <img src="/assets/img/gallery/plane.png" alt="Snow" style="width:100%">
   </div>
   
+<h2> CG Art </h2>
+
+<brz>
+
+
+<h2> Photography </h2>

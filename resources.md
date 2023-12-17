@@ -66,7 +66,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
 
 
 <article class="project-card">
-  <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
+  <a href="/ml-dl-notes/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
 
 
@@ -89,7 +89,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/blog/2021/08/09/yocto.html" class="flip-title">ML/DL&nbsp;Notes</a>
+    <a href="/ml-dl-notes/" class="flip-title">ML/DL&nbsp;Notes</a>
   </h3>
   
   
@@ -102,7 +102,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
   <div class="column column-1-2"> 
 
 <article class="project-card">
-  <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
+  <a href="" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
 
    <img
@@ -144,7 +144,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
   <div class="column column-1-2">
 
 <article class="project-card">
-  <a href="/blog/2021/08/09/yocto.html" class="no-hover no-print-link flip-project" tabindex="-1">
+  <a href="/ROS/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
 
 
@@ -166,7 +166,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/blog/2021/08/09/yocto.html" class="flip-title">ROS&nbsp;&&nbsp;Robotics&nbsp;Notes</a>
+    <a href="/ROS/" class="flip-title">ROS&nbsp;&&nbsp;Robotics&nbsp;Notes</a>
   </h3>
   
   
