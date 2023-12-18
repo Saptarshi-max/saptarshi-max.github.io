@@ -102,8 +102,8 @@ menu:
       #  url:    /resources
       #- title:  "&#10001; Timeline of Publish"
       # url:    /gallery/
- - title: My Projects
-   url: 
+# - title: My Projects
+#   url: 
  - title: Gallery 
    url: /image_gallery
 
