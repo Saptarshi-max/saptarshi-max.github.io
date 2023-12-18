@@ -103,7 +103,7 @@ menu:
       #- title:  "&#10001; Timeline of Publish"
       # url:    /gallery/
  - title: My Projects
-   url: /projects/
+   url: 
  - title: Gallery 
    url: /image_gallery
 
