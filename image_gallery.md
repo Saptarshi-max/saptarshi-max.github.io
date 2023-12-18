@@ -168,7 +168,7 @@ div.container {
 </head>
 <body>
 
-<h2>Responsive Polaroid Images / Cards</h2>
+<h2> Digital Illustrations </h2>
 
 <div class="polaroid">
   <img src="/assets/img/gallery/plane.png" alt="5 Terre" style="width:100%">
