@@ -27,3 +27,4 @@ invert_sidebar: true
 
 ![picture 4](../../images/622e6ddc018c85f80af72ddd42a593709ac1bf22cd43ce8809a6773e6f5df229.png)  
 
+<object data="{{ site.url }}{{ site.baseurl }}/assets/Resume.pdf" width="1000" height="1000" type="application/pdf"></object>
