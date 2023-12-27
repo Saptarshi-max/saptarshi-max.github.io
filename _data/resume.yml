@@ -132,11 +132,6 @@ core:
     highlights:
 
       
-      - Designed Printed Circuit Boards (PCB) of voltage regulator and DC-DC converter for lighting appliances.
-      - Designed, Developed and verified various hardware for production stages, documenting the workflow to create Bill of Materials (BOM).
-      - Build various test cases on the prototyping modules of the TI’s MSP430 series to simulate various test environment.
-      - Review the PCBs for soldering defects like dry soldering, shorting
-        of connections etc
       
     
        

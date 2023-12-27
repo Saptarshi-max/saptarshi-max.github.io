@@ -15,7 +15,7 @@ tags: [iiot, future-prediction]
 invert_sidebar: true
 ---
 
-## Some Data 
+## Some great alternative of Latex for Document making 
 
 ```
 
