@@ -35,7 +35,7 @@ The core components of Yocto Project are :
 | **BitBake** |  BitBake is the build engine used by the Yocto Project. It executes tasks defined in recipes to build packages and images.   |
 | **OpenEmbedded-Core (OE-Core)** |   |
 | **Recipes** |   Recipes define how to build a specific software component. They include information such as source location, dependencies, and build instructions.  |
-| **Metadata**|   used to construct a Linux distribution and is contained in the files that the OpenEmbedded build system parses when building an image. In general, Metadata includes recipes, configuration files, and other information that refers to the build instructions themselves, as well as the data used to control what things get built and the effects of the build. Metadata also includes commands and data used to indicate what versions of software are used, from where they are obtained, and changes or additions to the software itself (patches or auxiliary files) that are used to fix bugs or customize the software for use in a particular situation. OpenEmbedded-Core is an important set of validated metadata.  |
+| **Metadata**|    Metadata includes recipes, configuration files, and other information that refers to the build instructions themselves, as well as the data used to control what things get built and the effects of the build. Metadata also includes commands and data used to indicate what versions of software used.  |
 | **Classes** |     |
 | **Machines**| |
 |
