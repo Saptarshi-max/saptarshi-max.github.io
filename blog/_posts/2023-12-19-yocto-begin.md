@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-page
 title: Getting Started with the Yocto Project
 image: 
   path: "/images/83acd5d3586d4172e62c65c26686d27fcc659172b7497bd12612fe9a4cf5fd29.png"
