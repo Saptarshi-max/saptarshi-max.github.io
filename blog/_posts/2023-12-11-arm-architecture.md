@@ -43,3 +43,27 @@ invert_sidebar: true
 ### CMSIS Features 
 
 ### Power Management
+
+
+## The Architecture 
+
+The ARM architecture Core register set is as shown below, 
+- The ARM processor, like all RISC processors, uses a load-store architecture.
+
+
+> ![[Pasted image 20240516140458.png]]
+> The figure above shows the core important registers of the ARM architecture 
+> The r13 is the Stack pointer
+> The r14 is the link register
+> The r15 is the Program counter
+
+
+The ARM processor can run in multiple modes, 
+
+
+
+
+
+# CPSR ( Currrent Program Status Register)
+
+

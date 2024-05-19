@@ -42,6 +42,7 @@ The core components of Yocto Project are :
 
 ## Getting Started 
 
+![[Pasted image 20240519191933.png|574]]
 
 ## Creating a simple Yocto Project image 
 

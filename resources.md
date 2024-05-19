@@ -9,7 +9,7 @@ Learning is like an endless adventure, you know? It's a lifelong thing that keep
 
 ## My Study Logs
 
-Learning is like an endless adventure, you know? It's a lifelong thing that keeps getting cooler. But you wanna know what really rocks? Sharing the good stuff! That's where I spill the tea on my notes and study vibes. Dive in, and let's nerd out together! 
+Learning is like an endless adventure, It's a lifelong thing that keeps getting cooler. That's where I spill the tea on my notes and study vibes. Dive in, and let's nerd out together! 
 
 > 🗒️ Here are the subcategories of my blog posts which consists of my own personal learning notes (Some in PDF). Feel free to download, share or customise  ...
 
