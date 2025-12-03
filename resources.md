@@ -89,7 +89,7 @@ Learning is like an endless adventure, It's a lifelong thing that keeps getting 
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/ml-dl-notes/" class="flip-title">ML/DL&nbsp;Notes</a>
+    <a href="/ml-dl-notes/" class="flip-title">C&nbsp;Development&nbsp;Notes</a>
   </h3>
   
   
@@ -166,7 +166,7 @@ Learning is like an endless adventure, It's a lifelong thing that keeps getting 
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/ROS/" class="flip-title">ROS&nbsp;&&nbsp;Robotics&nbsp;Notes</a>
+    <a href="/ROS/" class="flip-title">Rust&nbsp;Notes</a>
   </h3>
   
   

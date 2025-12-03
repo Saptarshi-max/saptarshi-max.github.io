@@ -19,7 +19,11 @@ invert_sidebar: true
 
 ## The ARM Design Philosophy
 
-## The Great ARM Family 
+![[Pasted image 20251201115709.png]]
+Some Work here and trhere 
+
+## The Boot Process
+
 
 
 
